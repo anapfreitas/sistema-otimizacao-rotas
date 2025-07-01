@@ -1,0 +1,7530 @@
+{
+  "vertices": {
+    "Abadia dos Dourados": {
+      "lat": -18.4868648,
+      "lng": -47.4030649
+    },
+    "Arapuá": {
+      "lat": -19.035451,
+      "lng": -46.1539508
+    },
+    "Biquinhas": {
+      "lat": -18.782962,
+      "lng": -45.5038014
+    },
+    "Campos Altos": {
+      "lat": -19.6968881,
+      "lng": -46.1704974
+    },
+    "Carmo do Paranaíba": {
+      "lat": -18.9997131,
+      "lng": -46.3126967
+    },
+    "Cedro do Abaeté": {
+      "lat": -19.1464575,
+      "lng": -45.7138281
+    },
+    "Coromandel": {
+      "lat": -18.4785256,
+      "lng": -47.1978084
+    },
+    "Cruzeiro da Fortaleza": {
+      "lat": -18.946948,
+      "lng": -46.673326
+    },
+    "Douradoquara": {
+      "lat": -18.4309993,
+      "lng": -47.6081353
+    },
+    "Grupiara": {
+      "lat": -18.4943963,
+      "lng": -47.7244459
+    },
+    "Guarda-Mor": {
+      "lat": -17.7704994,
+      "lng": -47.0958055
+    },
+    "Guimarânia": {
+      "lat": -18.844193,
+      "lng": -46.7942354
+    },
+    "Ibiá": {
+      "lat": -19.4878116,
+      "lng": -46.5450499
+    },
+    "Iraí de Minas": {
+      "lat": -18.9833808,
+      "lng": -47.4617751
+    },
+    "Lagamar": {
+      "lat": -18.178724,
+      "lng": -46.80644359999999
+    },
+    "Lagoa Formosa": {
+      "lat": -18.7776633,
+      "lng": -46.405353
+    },
+    "Lagoa Grande": {
+      "lat": -17.8368328,
+      "lng": -46.5212205
+    },
+    "Matutina": {
+      "lat": -19.2223922,
+      "lng": -45.9718167
+    },
+    "Monte Carmelo": {
+      "lat": -18.7269616,
+      "lng": -47.4956501
+    },
+    "Morada Nova de Minas": {
+      "lat": -18.6060211,
+      "lng": -45.35729010000001
+    },
+    "Paineiras": {
+      "lat": -18.9051753,
+      "lng": -45.53465930000001
+    },
+    "Patos de Minas": {
+      "lat": -18.5961683,
+      "lng": -46.5150076
+    },
+    "Patrocínio": {
+      "lat": -18.9379772,
+      "lng": -46.99427180000001
+    },
+    "Pratinha": {
+      "lat": -19.7504733,
+      "lng": -46.3773223
+    },
+    "Presidente Olegário": {
+      "lat": -18.4158495,
+      "lng": -46.4186194
+    },
+    "Rio Paranaíba": {
+      "lat": -19.199005,
+      "lng": -46.2360218
+    },
+    "Santa Rosa da Serra": {
+      "lat": -19.527717,
+      "lng": -45.9667441
+    },
+    "São Gonçalo do Abaeté": {
+      "lat": -18.3401701,
+      "lng": -45.8318041
+    },
+    "São Gotardo": {
+      "lat": -19.3107686,
+      "lng": -46.04897949999999
+    },
+    "Serra do Salitre": {
+      "lat": -19.1091373,
+      "lng": -46.6812035
+    },
+    "Tiros": {
+      "lat": -19.0031405,
+      "lng": -45.9647122
+    },
+    "Varjão de Minas": {
+      "lat": -18.379071,
+      "lng": -46.0320827
+    },
+    "Vazante": {
+      "lat": -17.9873107,
+      "lng": -46.9042592
+    }
+  },
+  "arestas": [
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Arapuá",
+      "distancia_km": 219.26,
+      "tempo_horas": 3.02,
+      "custo_reais": 109.63
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 219.26,
+      "tempo_horas": 3.02,
+      "custo_reais": 109.63
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Biquinhas",
+      "distancia_km": 331.85,
+      "tempo_horas": 5.36,
+      "custo_reais": 165.93
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 331.85,
+      "tempo_horas": 5.36,
+      "custo_reais": 165.93
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Campos Altos",
+      "distancia_km": 245.3,
+      "tempo_horas": 3.49,
+      "custo_reais": 122.65
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 245.3,
+      "tempo_horas": 3.49,
+      "custo_reais": 122.65
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 193.73,
+      "tempo_horas": 2.75,
+      "custo_reais": 96.87
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 193.73,
+      "tempo_horas": 2.75,
+      "custo_reais": 96.87
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 277.68,
+      "tempo_horas": 4.49,
+      "custo_reais": 138.84
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 277.68,
+      "tempo_horas": 4.49,
+      "custo_reais": 138.84
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Coromandel",
+      "distancia_km": 23.33,
+      "tempo_horas": 0.4,
+      "custo_reais": 11.66
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 23.33,
+      "tempo_horas": 0.4,
+      "custo_reais": 11.66
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 125.61,
+      "tempo_horas": 1.81,
+      "custo_reais": 62.81
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 125.61,
+      "tempo_horas": 1.81,
+      "custo_reais": 62.81
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Douradoquara",
+      "distancia_km": 37.91,
+      "tempo_horas": 0.59,
+      "custo_reais": 18.95
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 37.91,
+      "tempo_horas": 0.59,
+      "custo_reais": 18.95
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Grupiara",
+      "distancia_km": 69.13,
+      "tempo_horas": 1.18,
+      "custo_reais": 34.57
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 69.13,
+      "tempo_horas": 1.18,
+      "custo_reais": 34.57
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Guarda-Mor",
+      "distancia_km": 121.54,
+      "tempo_horas": 1.62,
+      "custo_reais": 60.77
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 121.54,
+      "tempo_horas": 1.62,
+      "custo_reais": 60.77
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Guimarânia",
+      "distancia_km": 102.91,
+      "tempo_horas": 1.47,
+      "custo_reais": 51.46
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 102.91,
+      "tempo_horas": 1.47,
+      "custo_reais": 51.46
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Ibiá",
+      "distancia_km": 192.73,
+      "tempo_horas": 2.72,
+      "custo_reais": 96.36
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 192.73,
+      "tempo_horas": 2.72,
+      "custo_reais": 96.36
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Iraí de Minas",
+      "distancia_km": 72.35,
+      "tempo_horas": 1.04,
+      "custo_reais": 36.17
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 72.35,
+      "tempo_horas": 1.04,
+      "custo_reais": 36.17
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Lagamar",
+      "distancia_km": 85.77,
+      "tempo_horas": 1.54,
+      "custo_reais": 42.88
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 85.77,
+      "tempo_horas": 1.54,
+      "custo_reais": 42.88
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 161.43,
+      "tempo_horas": 2.28,
+      "custo_reais": 80.72
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 161.43,
+      "tempo_horas": 2.28,
+      "custo_reais": 80.72
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Lagoa Grande",
+      "distancia_km": 176.9,
+      "tempo_horas": 2.67,
+      "custo_reais": 88.45
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 176.9,
+      "tempo_horas": 2.67,
+      "custo_reais": 88.45
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Matutina",
+      "distancia_km": 233.28,
+      "tempo_horas": 3.44,
+      "custo_reais": 116.64
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 233.28,
+      "tempo_horas": 3.44,
+      "custo_reais": 116.64
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Monte Carmelo",
+      "distancia_km": 31.54,
+      "tempo_horas": 0.52,
+      "custo_reais": 15.77
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 31.54,
+      "tempo_horas": 0.52,
+      "custo_reais": 15.77
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 397.14,
+      "tempo_horas": 5.93,
+      "custo_reais": 198.57
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 397.14,
+      "tempo_horas": 5.93,
+      "custo_reais": 198.57
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Paineiras",
+      "distancia_km": 345.11,
+      "tempo_horas": 5.42,
+      "custo_reais": 172.56
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 345.11,
+      "tempo_horas": 5.42,
+      "custo_reais": 172.56
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Patos de Minas",
+      "distancia_km": 145.17,
+      "tempo_horas": 2.11,
+      "custo_reais": 72.59
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 145.17,
+      "tempo_horas": 2.11,
+      "custo_reais": 72.59
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Patrocínio",
+      "distancia_km": 103.61,
+      "tempo_horas": 1.55,
+      "custo_reais": 51.81
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 103.61,
+      "tempo_horas": 1.55,
+      "custo_reais": 51.81
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Pratinha",
+      "distancia_km": 229.6,
+      "tempo_horas": 3.23,
+      "custo_reais": 114.8
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 229.6,
+      "tempo_horas": 3.23,
+      "custo_reais": 114.8
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Presidente Olegário",
+      "distancia_km": 139.43,
+      "tempo_horas": 2.23,
+      "custo_reais": 69.71
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 139.43,
+      "tempo_horas": 2.23,
+      "custo_reais": 69.71
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 197.04,
+      "tempo_horas": 2.81,
+      "custo_reais": 98.52
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 197.04,
+      "tempo_horas": 2.81,
+      "custo_reais": 98.52
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 281.09,
+      "tempo_horas": 3.9,
+      "custo_reais": 140.54
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 281.09,
+      "tempo_horas": 3.9,
+      "custo_reais": 140.54
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 237.46,
+      "tempo_horas": 3.27,
+      "custo_reais": 118.73
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 237.46,
+      "tempo_horas": 3.27,
+      "custo_reais": 118.73
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "São Gotardo",
+      "distancia_km": 234.38,
+      "tempo_horas": 3.33,
+      "custo_reais": 117.19
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 234.38,
+      "tempo_horas": 3.33,
+      "custo_reais": 117.19
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Serra do Salitre",
+      "distancia_km": 143.02,
+      "tempo_horas": 2.16,
+      "custo_reais": 71.51
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 143.02,
+      "tempo_horas": 2.16,
+      "custo_reais": 71.51
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Tiros",
+      "distancia_km": 241.17,
+      "tempo_horas": 3.47,
+      "custo_reais": 120.58
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 241.17,
+      "tempo_horas": 3.47,
+      "custo_reais": 120.58
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Varjão de Minas",
+      "distancia_km": 206.25,
+      "tempo_horas": 2.84,
+      "custo_reais": 103.12
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 206.25,
+      "tempo_horas": 2.84,
+      "custo_reais": 103.12
+    },
+    {
+      "origem": "Abadia dos Dourados",
+      "destino": "Vazante",
+      "distancia_km": 128.06,
+      "tempo_horas": 1.71,
+      "custo_reais": 64.03
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Abadia dos Dourados",
+      "distancia_km": 128.06,
+      "tempo_horas": 1.71,
+      "custo_reais": 64.03
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Biquinhas",
+      "distancia_km": 151.8,
+      "tempo_horas": 3.01,
+      "custo_reais": 75.9
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Arapuá",
+      "distancia_km": 151.8,
+      "tempo_horas": 3.01,
+      "custo_reais": 75.9
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Campos Altos",
+      "distancia_km": 96.08,
+      "tempo_horas": 1.27,
+      "custo_reais": 48.04
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Arapuá",
+      "distancia_km": 96.08,
+      "tempo_horas": 1.27,
+      "custo_reais": 48.04
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 31.58,
+      "tempo_horas": 0.5,
+      "custo_reais": 15.79
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Arapuá",
+      "distancia_km": 31.58,
+      "tempo_horas": 0.5,
+      "custo_reais": 15.79
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 66.16,
+      "tempo_horas": 1.79,
+      "custo_reais": 33.08
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Arapuá",
+      "distancia_km": 66.16,
+      "tempo_horas": 1.79,
+      "custo_reais": 33.08
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Coromandel",
+      "distancia_km": 192.83,
+      "tempo_horas": 2.6,
+      "custo_reais": 96.41
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Arapuá",
+      "distancia_km": 192.83,
+      "tempo_horas": 2.6,
+      "custo_reais": 96.41
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 114.3,
+      "tempo_horas": 1.5,
+      "custo_reais": 57.15
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Arapuá",
+      "distancia_km": 114.3,
+      "tempo_horas": 1.5,
+      "custo_reais": 57.15
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Douradoquara",
+      "distancia_km": 257.41,
+      "tempo_horas": 3.56,
+      "custo_reais": 128.71
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Arapuá",
+      "distancia_km": 257.41,
+      "tempo_horas": 3.56,
+      "custo_reais": 128.71
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Grupiara",
+      "distancia_km": 260.26,
+      "tempo_horas": 3.66,
+      "custo_reais": 130.13
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Arapuá",
+      "distancia_km": 260.26,
+      "tempo_horas": 3.66,
+      "custo_reais": 130.13
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Guarda-Mor",
+      "distancia_km": 229.4,
+      "tempo_horas": 3.22,
+      "custo_reais": 114.7
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Arapuá",
+      "distancia_km": 229.4,
+      "tempo_horas": 3.22,
+      "custo_reais": 114.7
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Guimarânia",
+      "distancia_km": 120.68,
+      "tempo_horas": 1.65,
+      "custo_reais": 60.34
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Arapuá",
+      "distancia_km": 120.68,
+      "tempo_horas": 1.65,
+      "custo_reais": 60.34
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Ibiá",
+      "distancia_km": 95.23,
+      "tempo_horas": 1.25,
+      "custo_reais": 47.62
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Arapuá",
+      "distancia_km": 95.23,
+      "tempo_horas": 1.25,
+      "custo_reais": 47.62
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Iraí de Minas",
+      "distancia_km": 204.22,
+      "tempo_horas": 2.79,
+      "custo_reais": 102.11
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Arapuá",
+      "distancia_km": 204.22,
+      "tempo_horas": 2.79,
+      "custo_reais": 102.11
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Lagamar",
+      "distancia_km": 160.91,
+      "tempo_horas": 2.2,
+      "custo_reais": 80.46
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Arapuá",
+      "distancia_km": 160.91,
+      "tempo_horas": 2.2,
+      "custo_reais": 80.46
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 58.88,
+      "tempo_horas": 0.79,
+      "custo_reais": 29.44
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Arapuá",
+      "distancia_km": 58.88,
+      "tempo_horas": 0.79,
+      "custo_reais": 29.44
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Lagoa Grande",
+      "distancia_km": 183.75,
+      "tempo_horas": 2.5,
+      "custo_reais": 91.88
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Arapuá",
+      "distancia_km": 183.75,
+      "tempo_horas": 2.5,
+      "custo_reais": 91.88
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Matutina",
+      "distancia_km": 48.6,
+      "tempo_horas": 0.87,
+      "custo_reais": 24.3
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Arapuá",
+      "distancia_km": 48.6,
+      "tempo_horas": 0.87,
+      "custo_reais": 24.3
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Monte Carmelo",
+      "distancia_km": 223.16,
+      "tempo_horas": 3.03,
+      "custo_reais": 111.58
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Arapuá",
+      "distancia_km": 223.16,
+      "tempo_horas": 3.03,
+      "custo_reais": 111.58
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 181.37,
+      "tempo_horas": 3.41,
+      "custo_reais": 90.69
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Arapuá",
+      "distancia_km": 181.37,
+      "tempo_horas": 3.41,
+      "custo_reais": 90.69
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Paineiras",
+      "distancia_km": 133.59,
+      "tempo_horas": 2.71,
+      "custo_reais": 66.8
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Arapuá",
+      "distancia_km": 133.59,
+      "tempo_horas": 2.71,
+      "custo_reais": 66.8
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Patos de Minas",
+      "distancia_km": 82.76,
+      "tempo_horas": 1.15,
+      "custo_reais": 41.38
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Arapuá",
+      "distancia_km": 82.76,
+      "tempo_horas": 1.15,
+      "custo_reais": 41.38
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Patrocínio",
+      "distancia_km": 145.26,
+      "tempo_horas": 2.03,
+      "custo_reais": 72.63
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Arapuá",
+      "distancia_km": 145.26,
+      "tempo_horas": 2.03,
+      "custo_reais": 72.63
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Pratinha",
+      "distancia_km": 136.2,
+      "tempo_horas": 1.9,
+      "custo_reais": 68.1
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Arapuá",
+      "distancia_km": 136.2,
+      "tempo_horas": 1.9,
+      "custo_reais": 68.1
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Presidente Olegário",
+      "distancia_km": 108.38,
+      "tempo_horas": 1.57,
+      "custo_reais": 54.19
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Arapuá",
+      "distancia_km": 108.38,
+      "tempo_horas": 1.57,
+      "custo_reais": 54.19
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 38.48,
+      "tempo_horas": 0.55,
+      "custo_reais": 19.24
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Arapuá",
+      "distancia_km": 38.48,
+      "tempo_horas": 0.55,
+      "custo_reais": 19.24
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 100.49,
+      "tempo_horas": 1.37,
+      "custo_reais": 50.25
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Arapuá",
+      "distancia_km": 100.49,
+      "tempo_horas": 1.37,
+      "custo_reais": 50.25
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 171.91,
+      "tempo_horas": 2.27,
+      "custo_reais": 85.95
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Arapuá",
+      "distancia_km": 171.91,
+      "tempo_horas": 2.27,
+      "custo_reais": 85.95
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "São Gotardo",
+      "distancia_km": 53.78,
+      "tempo_horas": 0.8,
+      "custo_reais": 26.89
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Arapuá",
+      "distancia_km": 53.78,
+      "tempo_horas": 0.8,
+      "custo_reais": 26.89
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Serra do Salitre",
+      "distancia_km": 97.25,
+      "tempo_horas": 1.26,
+      "custo_reais": 48.63
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Arapuá",
+      "distancia_km": 97.25,
+      "tempo_horas": 1.26,
+      "custo_reais": 48.63
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Tiros",
+      "distancia_km": 34.06,
+      "tempo_horas": 0.68,
+      "custo_reais": 17.03
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Arapuá",
+      "distancia_km": 34.06,
+      "tempo_horas": 0.68,
+      "custo_reais": 17.03
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Varjão de Minas",
+      "distancia_km": 140.69,
+      "tempo_horas": 1.85,
+      "custo_reais": 70.35
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Arapuá",
+      "distancia_km": 140.69,
+      "tempo_horas": 1.85,
+      "custo_reais": 70.35
+    },
+    {
+      "origem": "Arapuá",
+      "destino": "Vazante",
+      "distancia_km": 189.07,
+      "tempo_horas": 2.63,
+      "custo_reais": 94.53
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Arapuá",
+      "distancia_km": 189.07,
+      "tempo_horas": 2.63,
+      "custo_reais": 94.53
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Campos Altos",
+      "distancia_km": 212.28,
+      "tempo_horas": 2.97,
+      "custo_reais": 106.14
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Biquinhas",
+      "distancia_km": 212.28,
+      "tempo_horas": 2.97,
+      "custo_reais": 106.14
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 188.37,
+      "tempo_horas": 3.34,
+      "custo_reais": 94.18
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Biquinhas",
+      "distancia_km": 188.37,
+      "tempo_horas": 3.34,
+      "custo_reais": 94.18
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 85.62,
+      "tempo_horas": 1.23,
+      "custo_reais": 42.81
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Biquinhas",
+      "distancia_km": 85.62,
+      "tempo_horas": 1.23,
+      "custo_reais": 42.81
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Coromandel",
+      "distancia_km": 305.27,
+      "tempo_horas": 4.92,
+      "custo_reais": 152.63
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Biquinhas",
+      "distancia_km": 305.27,
+      "tempo_horas": 4.92,
+      "custo_reais": 152.63
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 241.21,
+      "tempo_horas": 3.98,
+      "custo_reais": 120.61
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Biquinhas",
+      "distancia_km": 241.21,
+      "tempo_horas": 3.98,
+      "custo_reais": 120.61
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Douradoquara",
+      "distancia_km": 369.85,
+      "tempo_horas": 5.89,
+      "custo_reais": 184.92
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Biquinhas",
+      "distancia_km": 369.85,
+      "tempo_horas": 5.89,
+      "custo_reais": 184.92
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Grupiara",
+      "distancia_km": 372.7,
+      "tempo_horas": 5.99,
+      "custo_reais": 186.35
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Biquinhas",
+      "distancia_km": 372.7,
+      "tempo_horas": 5.99,
+      "custo_reais": 186.35
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Guarda-Mor",
+      "distancia_km": 332.35,
+      "tempo_horas": 5.43,
+      "custo_reais": 166.17
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Biquinhas",
+      "distancia_km": 332.35,
+      "tempo_horas": 5.43,
+      "custo_reais": 166.17
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Guimarânia",
+      "distancia_km": 233.12,
+      "tempo_horas": 3.98,
+      "custo_reais": 116.56
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Biquinhas",
+      "distancia_km": 233.12,
+      "tempo_horas": 3.98,
+      "custo_reais": 116.56
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Ibiá",
+      "distancia_km": 263.28,
+      "tempo_horas": 3.63,
+      "custo_reais": 131.64
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Biquinhas",
+      "distancia_km": 263.28,
+      "tempo_horas": 3.63,
+      "custo_reais": 131.64
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Iraí de Minas",
+      "distancia_km": 316.66,
+      "tempo_horas": 5.12,
+      "custo_reais": 158.33
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Biquinhas",
+      "distancia_km": 316.66,
+      "tempo_horas": 5.12,
+      "custo_reais": 158.33
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Lagamar",
+      "distancia_km": 263.86,
+      "tempo_horas": 4.41,
+      "custo_reais": 131.93
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Biquinhas",
+      "distancia_km": 263.86,
+      "tempo_horas": 4.41,
+      "custo_reais": 131.93
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 215.67,
+      "tempo_horas": 3.63,
+      "custo_reais": 107.83
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Biquinhas",
+      "distancia_km": 215.67,
+      "tempo_horas": 3.63,
+      "custo_reais": 107.83
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Lagoa Grande",
+      "distancia_km": 294.32,
+      "tempo_horas": 4.63,
+      "custo_reais": 147.16
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Biquinhas",
+      "distancia_km": 294.32,
+      "tempo_horas": 4.63,
+      "custo_reais": 147.16
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Matutina",
+      "distancia_km": 135.08,
+      "tempo_horas": 2.45,
+      "custo_reais": 67.54
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Biquinhas",
+      "distancia_km": 135.08,
+      "tempo_horas": 2.45,
+      "custo_reais": 67.54
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Monte Carmelo",
+      "distancia_km": 335.6,
+      "tempo_horas": 5.36,
+      "custo_reais": 167.8
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Biquinhas",
+      "distancia_km": 335.6,
+      "tempo_horas": 5.36,
+      "custo_reais": 167.8
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 29.57,
+      "tempo_horas": 0.4,
+      "custo_reais": 14.78
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Biquinhas",
+      "distancia_km": 29.57,
+      "tempo_horas": 0.4,
+      "custo_reais": 14.78
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Paineiras",
+      "distancia_km": 18.21,
+      "tempo_horas": 0.3,
+      "custo_reais": 9.11
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Biquinhas",
+      "distancia_km": 18.21,
+      "tempo_horas": 0.3,
+      "custo_reais": 9.11
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Patos de Minas",
+      "distancia_km": 195.4,
+      "tempo_horas": 3.49,
+      "custo_reais": 97.7
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Biquinhas",
+      "distancia_km": 195.4,
+      "tempo_horas": 3.49,
+      "custo_reais": 97.7
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Patrocínio",
+      "distancia_km": 257.7,
+      "tempo_horas": 4.36,
+      "custo_reais": 128.85
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Biquinhas",
+      "distancia_km": 257.7,
+      "tempo_horas": 4.36,
+      "custo_reais": 128.85
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Pratinha",
+      "distancia_km": 246.26,
+      "tempo_horas": 3.68,
+      "custo_reais": 123.13
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Biquinhas",
+      "distancia_km": 246.26,
+      "tempo_horas": 3.68,
+      "custo_reais": 123.13
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Presidente Olegário",
+      "distancia_km": 211.33,
+      "tempo_horas": 3.78,
+      "custo_reais": 105.66
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Biquinhas",
+      "distancia_km": 211.33,
+      "tempo_horas": 3.78,
+      "custo_reais": 105.66
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 165.4,
+      "tempo_horas": 3.03,
+      "custo_reais": 82.7
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Biquinhas",
+      "distancia_km": 165.4,
+      "tempo_horas": 3.03,
+      "custo_reais": 82.7
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 162.48,
+      "tempo_horas": 2.77,
+      "custo_reais": 81.24
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Biquinhas",
+      "distancia_km": 162.48,
+      "tempo_horas": 2.77,
+      "custo_reais": 81.24
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 94.58,
+      "tempo_horas": 2.1,
+      "custo_reais": 47.29
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Biquinhas",
+      "distancia_km": 94.58,
+      "tempo_horas": 2.1,
+      "custo_reais": 47.29
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "São Gotardo",
+      "distancia_km": 153.43,
+      "tempo_horas": 2.76,
+      "custo_reais": 76.71
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Biquinhas",
+      "distancia_km": 153.43,
+      "tempo_horas": 2.76,
+      "custo_reais": 76.71
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Serra do Salitre",
+      "distancia_km": 224.16,
+      "tempo_horas": 3.74,
+      "custo_reais": 112.08
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Biquinhas",
+      "distancia_km": 224.16,
+      "tempo_horas": 3.74,
+      "custo_reais": 112.08
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Tiros",
+      "distancia_km": 137.29,
+      "tempo_horas": 2.51,
+      "custo_reais": 68.64
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Biquinhas",
+      "distancia_km": 137.29,
+      "tempo_horas": 2.51,
+      "custo_reais": 68.64
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Varjão de Minas",
+      "distancia_km": 126.1,
+      "tempo_horas": 2.53,
+      "custo_reais": 63.05
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Biquinhas",
+      "distancia_km": 126.1,
+      "tempo_horas": 2.53,
+      "custo_reais": 63.05
+    },
+    {
+      "origem": "Biquinhas",
+      "destino": "Vazante",
+      "distancia_km": 292.02,
+      "tempo_horas": 4.84,
+      "custo_reais": 146.01
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Biquinhas",
+      "distancia_km": 292.02,
+      "tempo_horas": 4.84,
+      "custo_reais": 146.01
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 106.27,
+      "tempo_horas": 1.43,
+      "custo_reais": 53.14
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Campos Altos",
+      "distancia_km": 106.27,
+      "tempo_horas": 1.43,
+      "custo_reais": 53.14
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 131.3,
+      "tempo_horas": 2.36,
+      "custo_reais": 65.65
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Campos Altos",
+      "distancia_km": 131.3,
+      "tempo_horas": 2.36,
+      "custo_reais": 65.65
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Coromandel",
+      "distancia_km": 217.6,
+      "tempo_horas": 3.02,
+      "custo_reais": 108.8
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Campos Altos",
+      "distancia_km": 217.6,
+      "tempo_horas": 3.02,
+      "custo_reais": 108.8
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 140.15,
+      "tempo_horas": 1.93,
+      "custo_reais": 70.07
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Campos Altos",
+      "distancia_km": 140.15,
+      "tempo_horas": 1.93,
+      "custo_reais": 70.07
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Douradoquara",
+      "distancia_km": 277.07,
+      "tempo_horas": 3.84,
+      "custo_reais": 138.53
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Campos Altos",
+      "distancia_km": 277.07,
+      "tempo_horas": 3.84,
+      "custo_reais": 138.53
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Grupiara",
+      "distancia_km": 265.31,
+      "tempo_horas": 3.79,
+      "custo_reais": 132.65
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Campos Altos",
+      "distancia_km": 265.31,
+      "tempo_horas": 3.79,
+      "custo_reais": 132.65
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Guarda-Mor",
+      "distancia_km": 304.09,
+      "tempo_horas": 4.16,
+      "custo_reais": 152.04
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Campos Altos",
+      "distancia_km": 304.09,
+      "tempo_horas": 4.16,
+      "custo_reais": 152.04
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Guimarânia",
+      "distancia_km": 162.97,
+      "tempo_horas": 2.28,
+      "custo_reais": 81.48
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Campos Altos",
+      "distancia_km": 162.97,
+      "tempo_horas": 2.28,
+      "custo_reais": 81.48
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Ibiá",
+      "distancia_km": 56.01,
+      "tempo_horas": 0.84,
+      "custo_reais": 28.0
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Campos Altos",
+      "distancia_km": 56.01,
+      "tempo_horas": 0.84,
+      "custo_reais": 28.0
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Iraí de Minas",
+      "distancia_km": 209.27,
+      "tempo_horas": 2.92,
+      "custo_reais": 104.63
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Campos Altos",
+      "distancia_km": 209.27,
+      "tempo_horas": 2.92,
+      "custo_reais": 104.63
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Lagamar",
+      "distancia_km": 235.6,
+      "tempo_horas": 3.13,
+      "custo_reais": 117.8
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Campos Altos",
+      "distancia_km": 235.6,
+      "tempo_horas": 3.13,
+      "custo_reais": 117.8
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 133.57,
+      "tempo_horas": 1.73,
+      "custo_reais": 66.79
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Campos Altos",
+      "distancia_km": 133.57,
+      "tempo_horas": 1.73,
+      "custo_reais": 66.79
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Lagoa Grande",
+      "distancia_km": 258.44,
+      "tempo_horas": 3.43,
+      "custo_reais": 129.22
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Campos Altos",
+      "distancia_km": 258.44,
+      "tempo_horas": 3.43,
+      "custo_reais": 129.22
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Matutina",
+      "distancia_km": 86.91,
+      "tempo_horas": 1.3,
+      "custo_reais": 43.45
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Campos Altos",
+      "distancia_km": 86.91,
+      "tempo_horas": 1.3,
+      "custo_reais": 43.45
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Monte Carmelo",
+      "distancia_km": 228.21,
+      "tempo_horas": 3.16,
+      "custo_reais": 114.1
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Campos Altos",
+      "distancia_km": 228.21,
+      "tempo_horas": 3.16,
+      "custo_reais": 114.1
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 241.72,
+      "tempo_horas": 3.33,
+      "custo_reais": 120.86
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Campos Altos",
+      "distancia_km": 241.72,
+      "tempo_horas": 3.33,
+      "custo_reais": 120.86
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Paineiras",
+      "distancia_km": 193.93,
+      "tempo_horas": 2.64,
+      "custo_reais": 96.97
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Campos Altos",
+      "distancia_km": 193.93,
+      "tempo_horas": 2.64,
+      "custo_reais": 96.97
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Patos de Minas",
+      "distancia_km": 157.45,
+      "tempo_horas": 2.09,
+      "custo_reais": 78.73
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Campos Altos",
+      "distancia_km": 157.45,
+      "tempo_horas": 2.09,
+      "custo_reais": 78.73
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Patrocínio",
+      "distancia_km": 146.32,
+      "tempo_horas": 2.09,
+      "custo_reais": 73.16
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Campos Altos",
+      "distancia_km": 146.32,
+      "tempo_horas": 2.09,
+      "custo_reais": 73.16
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Pratinha",
+      "distancia_km": 38.99,
+      "tempo_horas": 0.88,
+      "custo_reais": 19.49
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Campos Altos",
+      "distancia_km": 38.99,
+      "tempo_horas": 0.88,
+      "custo_reais": 19.49
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Presidente Olegário",
+      "distancia_km": 183.07,
+      "tempo_horas": 2.5,
+      "custo_reais": 91.54
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Campos Altos",
+      "distancia_km": 183.07,
+      "tempo_horas": 2.5,
+      "custo_reais": 91.54
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 78.93,
+      "tempo_horas": 1.07,
+      "custo_reais": 39.47
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Campos Altos",
+      "distancia_km": 78.93,
+      "tempo_horas": 1.07,
+      "custo_reais": 39.47
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 38.06,
+      "tempo_horas": 0.66,
+      "custo_reais": 19.03
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Campos Altos",
+      "distancia_km": 38.06,
+      "tempo_horas": 0.66,
+      "custo_reais": 19.03
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 246.6,
+      "tempo_horas": 3.21,
+      "custo_reais": 123.3
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Campos Altos",
+      "distancia_km": 246.6,
+      "tempo_horas": 3.21,
+      "custo_reais": 123.3
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "São Gotardo",
+      "distancia_km": 65.27,
+      "tempo_horas": 0.98,
+      "custo_reais": 32.63
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Campos Altos",
+      "distancia_km": 65.27,
+      "tempo_horas": 0.98,
+      "custo_reais": 32.63
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Serra do Salitre",
+      "distancia_km": 118.46,
+      "tempo_horas": 1.59,
+      "custo_reais": 59.23
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Campos Altos",
+      "distancia_km": 118.46,
+      "tempo_horas": 1.59,
+      "custo_reais": 59.23
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Tiros",
+      "distancia_km": 109.8,
+      "tempo_horas": 1.6,
+      "custo_reais": 54.9
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Campos Altos",
+      "distancia_km": 109.8,
+      "tempo_horas": 1.6,
+      "custo_reais": 54.9
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Varjão de Minas",
+      "distancia_km": 215.39,
+      "tempo_horas": 2.78,
+      "custo_reais": 107.69
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Campos Altos",
+      "distancia_km": 215.39,
+      "tempo_horas": 2.78,
+      "custo_reais": 107.69
+    },
+    {
+      "origem": "Campos Altos",
+      "destino": "Vazante",
+      "distancia_km": 263.76,
+      "tempo_horas": 3.57,
+      "custo_reais": 131.88
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Campos Altos",
+      "distancia_km": 263.76,
+      "tempo_horas": 3.57,
+      "custo_reais": 131.88
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 102.83,
+      "tempo_horas": 2.05,
+      "custo_reais": 51.41
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 102.83,
+      "tempo_horas": 2.05,
+      "custo_reais": 51.41
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Coromandel",
+      "distancia_km": 167.53,
+      "tempo_horas": 2.32,
+      "custo_reais": 83.77
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 167.53,
+      "tempo_horas": 2.32,
+      "custo_reais": 83.77
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 51.24,
+      "tempo_horas": 1.13,
+      "custo_reais": 25.62
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 51.24,
+      "tempo_horas": 1.13,
+      "custo_reais": 25.62
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Douradoquara",
+      "distancia_km": 232.11,
+      "tempo_horas": 3.29,
+      "custo_reais": 116.06
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 232.11,
+      "tempo_horas": 3.29,
+      "custo_reais": 116.06
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Grupiara",
+      "distancia_km": 234.96,
+      "tempo_horas": 3.38,
+      "custo_reais": 117.48
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 234.96,
+      "tempo_horas": 3.38,
+      "custo_reais": 117.48
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Guarda-Mor",
+      "distancia_km": 204.1,
+      "tempo_horas": 2.95,
+      "custo_reais": 102.05
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 204.1,
+      "tempo_horas": 2.95,
+      "custo_reais": 102.05
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Guimarânia",
+      "distancia_km": 95.39,
+      "tempo_horas": 1.38,
+      "custo_reais": 47.69
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 95.39,
+      "tempo_horas": 1.38,
+      "custo_reais": 47.69
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Ibiá",
+      "distancia_km": 105.07,
+      "tempo_horas": 1.38,
+      "custo_reais": 52.54
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 105.07,
+      "tempo_horas": 1.38,
+      "custo_reais": 52.54
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Iraí de Minas",
+      "distancia_km": 178.92,
+      "tempo_horas": 2.52,
+      "custo_reais": 89.46
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 178.92,
+      "tempo_horas": 2.52,
+      "custo_reais": 89.46
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Lagamar",
+      "distancia_km": 135.61,
+      "tempo_horas": 1.93,
+      "custo_reais": 67.81
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 135.61,
+      "tempo_horas": 1.93,
+      "custo_reais": 67.81
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 33.58,
+      "tempo_horas": 0.52,
+      "custo_reais": 16.79
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 33.58,
+      "tempo_horas": 0.52,
+      "custo_reais": 16.79
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Lagoa Grande",
+      "distancia_km": 158.45,
+      "tempo_horas": 2.23,
+      "custo_reais": 79.23
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 158.45,
+      "tempo_horas": 2.23,
+      "custo_reais": 79.23
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Matutina",
+      "distancia_km": 58.44,
+      "tempo_horas": 1.0,
+      "custo_reais": 29.22
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 58.44,
+      "tempo_horas": 1.0,
+      "custo_reais": 29.22
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Monte Carmelo",
+      "distancia_km": 197.86,
+      "tempo_horas": 2.76,
+      "custo_reais": 98.93
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 197.86,
+      "tempo_horas": 2.76,
+      "custo_reais": 98.93
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 218.05,
+      "tempo_horas": 3.67,
+      "custo_reais": 109.02
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 218.05,
+      "tempo_horas": 3.67,
+      "custo_reais": 109.02
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Paineiras",
+      "distancia_km": 170.26,
+      "tempo_horas": 2.98,
+      "custo_reais": 85.13
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 170.26,
+      "tempo_horas": 2.98,
+      "custo_reais": 85.13
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Patos de Minas",
+      "distancia_km": 57.46,
+      "tempo_horas": 0.88,
+      "custo_reais": 28.73
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 57.46,
+      "tempo_horas": 0.88,
+      "custo_reais": 28.73
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Patrocínio",
+      "distancia_km": 119.97,
+      "tempo_horas": 1.75,
+      "custo_reais": 59.98
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 119.97,
+      "tempo_horas": 1.75,
+      "custo_reais": 59.98
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Pratinha",
+      "distancia_km": 146.04,
+      "tempo_horas": 2.03,
+      "custo_reais": 73.02
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 146.04,
+      "tempo_horas": 2.03,
+      "custo_reais": 73.02
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Presidente Olegário",
+      "distancia_km": 83.08,
+      "tempo_horas": 1.29,
+      "custo_reais": 41.54
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 83.08,
+      "tempo_horas": 1.29,
+      "custo_reais": 41.54
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 48.32,
+      "tempo_horas": 0.67,
+      "custo_reais": 24.16
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 48.32,
+      "tempo_horas": 0.67,
+      "custo_reais": 24.16
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 110.33,
+      "tempo_horas": 1.5,
+      "custo_reais": 55.17
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 110.33,
+      "tempo_horas": 1.5,
+      "custo_reais": 55.17
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 146.61,
+      "tempo_horas": 2.0,
+      "custo_reais": 73.31
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 146.61,
+      "tempo_horas": 2.0,
+      "custo_reais": 73.31
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "São Gotardo",
+      "distancia_km": 63.62,
+      "tempo_horas": 0.92,
+      "custo_reais": 31.81
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 63.62,
+      "tempo_horas": 0.92,
+      "custo_reais": 31.81
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Serra do Salitre",
+      "distancia_km": 53.16,
+      "tempo_horas": 1.06,
+      "custo_reais": 26.58
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 53.16,
+      "tempo_horas": 1.06,
+      "custo_reais": 26.58
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Tiros",
+      "distancia_km": 53.62,
+      "tempo_horas": 0.94,
+      "custo_reais": 26.81
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 53.62,
+      "tempo_horas": 0.94,
+      "custo_reais": 26.81
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Varjão de Minas",
+      "distancia_km": 115.39,
+      "tempo_horas": 1.58,
+      "custo_reais": 57.7
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 115.39,
+      "tempo_horas": 1.58,
+      "custo_reais": 57.7
+    },
+    {
+      "origem": "Carmo do Paranaíba",
+      "destino": "Vazante",
+      "distancia_km": 163.77,
+      "tempo_horas": 2.36,
+      "custo_reais": 81.89
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Carmo do Paranaíba",
+      "distancia_km": 163.77,
+      "tempo_horas": 2.36,
+      "custo_reais": 81.89
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Coromandel",
+      "distancia_km": 264.0,
+      "tempo_horas": 4.19,
+      "custo_reais": 132.0
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 264.0,
+      "tempo_horas": 4.19,
+      "custo_reais": 132.0
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 155.59,
+      "tempo_horas": 2.73,
+      "custo_reais": 77.8
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 155.59,
+      "tempo_horas": 2.73,
+      "custo_reais": 77.8
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Douradoquara",
+      "distancia_km": 310.61,
+      "tempo_horas": 4.96,
+      "custo_reais": 155.3
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 310.61,
+      "tempo_horas": 4.96,
+      "custo_reais": 155.3
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Grupiara",
+      "distancia_km": 298.85,
+      "tempo_horas": 4.91,
+      "custo_reais": 149.42
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 298.85,
+      "tempo_horas": 4.91,
+      "custo_reais": 149.42
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Guarda-Mor",
+      "distancia_km": 300.57,
+      "tempo_horas": 4.81,
+      "custo_reais": 150.28
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 300.57,
+      "tempo_horas": 4.81,
+      "custo_reais": 150.28
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Guimarânia",
+      "distancia_km": 178.42,
+      "tempo_horas": 3.08,
+      "custo_reais": 89.21
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 178.42,
+      "tempo_horas": 3.08,
+      "custo_reais": 89.21
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Ibiá",
+      "distancia_km": 130.51,
+      "tempo_horas": 2.36,
+      "custo_reais": 65.25
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 130.51,
+      "tempo_horas": 2.36,
+      "custo_reais": 65.25
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Iraí de Minas",
+      "distancia_km": 242.8,
+      "tempo_horas": 4.05,
+      "custo_reais": 121.4
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 242.8,
+      "tempo_horas": 4.05,
+      "custo_reais": 121.4
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Lagamar",
+      "distancia_km": 232.08,
+      "tempo_horas": 3.79,
+      "custo_reais": 116.04
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 232.08,
+      "tempo_horas": 3.79,
+      "custo_reais": 116.04
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 130.05,
+      "tempo_horas": 2.38,
+      "custo_reais": 65.03
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 130.05,
+      "tempo_horas": 2.38,
+      "custo_reais": 65.03
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Lagoa Grande",
+      "distancia_km": 254.92,
+      "tempo_horas": 4.09,
+      "custo_reais": 127.46
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 254.92,
+      "tempo_horas": 4.09,
+      "custo_reais": 127.46
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Matutina",
+      "distancia_km": 49.46,
+      "tempo_horas": 1.2,
+      "custo_reais": 24.73
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 49.46,
+      "tempo_horas": 1.2,
+      "custo_reais": 24.73
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Monte Carmelo",
+      "distancia_km": 261.74,
+      "tempo_horas": 4.29,
+      "custo_reais": 130.87
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 261.74,
+      "tempo_horas": 4.29,
+      "custo_reais": 130.87
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 115.22,
+      "tempo_horas": 1.61,
+      "custo_reais": 57.61
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 115.22,
+      "tempo_horas": 1.61,
+      "custo_reais": 57.61
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Paineiras",
+      "distancia_km": 67.44,
+      "tempo_horas": 0.92,
+      "custo_reais": 33.72
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 67.44,
+      "tempo_horas": 0.92,
+      "custo_reais": 33.72
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Patos de Minas",
+      "distancia_km": 153.93,
+      "tempo_horas": 2.74,
+      "custo_reais": 76.97
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 153.93,
+      "tempo_horas": 2.74,
+      "custo_reais": 76.97
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Patrocínio",
+      "distancia_km": 179.86,
+      "tempo_horas": 3.21,
+      "custo_reais": 89.93
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 179.86,
+      "tempo_horas": 3.21,
+      "custo_reais": 89.93
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Pratinha",
+      "distancia_km": 171.48,
+      "tempo_horas": 3.01,
+      "custo_reais": 85.74
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 171.48,
+      "tempo_horas": 3.01,
+      "custo_reais": 85.74
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Presidente Olegário",
+      "distancia_km": 179.55,
+      "tempo_horas": 3.16,
+      "custo_reais": 89.77
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 179.55,
+      "tempo_horas": 3.16,
+      "custo_reais": 89.77
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 79.78,
+      "tempo_horas": 1.78,
+      "custo_reais": 39.89
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 79.78,
+      "tempo_horas": 1.78,
+      "custo_reais": 39.89
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 129.95,
+      "tempo_horas": 2.25,
+      "custo_reais": 64.97
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 129.95,
+      "tempo_horas": 2.25,
+      "custo_reais": 64.97
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 178.85,
+      "tempo_horas": 3.26,
+      "custo_reais": 89.42
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 178.85,
+      "tempo_horas": 3.26,
+      "custo_reais": 89.42
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "São Gotardo",
+      "distancia_km": 67.81,
+      "tempo_horas": 1.5,
+      "custo_reais": 33.91
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 67.81,
+      "tempo_horas": 1.5,
+      "custo_reais": 33.91
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Serra do Salitre",
+      "distancia_km": 138.55,
+      "tempo_horas": 2.49,
+      "custo_reais": 69.27
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 138.55,
+      "tempo_horas": 2.49,
+      "custo_reais": 69.27
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Tiros",
+      "distancia_km": 51.67,
+      "tempo_horas": 1.26,
+      "custo_reais": 25.84
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 51.67,
+      "tempo_horas": 1.26,
+      "custo_reais": 25.84
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Varjão de Minas",
+      "distancia_km": 211.87,
+      "tempo_horas": 3.44,
+      "custo_reais": 105.93
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 211.87,
+      "tempo_horas": 3.44,
+      "custo_reais": 105.93
+    },
+    {
+      "origem": "Cedro do Abaeté",
+      "destino": "Vazante",
+      "distancia_km": 260.24,
+      "tempo_horas": 4.22,
+      "custo_reais": 130.12
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Cedro do Abaeté",
+      "distancia_km": 260.24,
+      "tempo_horas": 4.22,
+      "custo_reais": 130.12
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 98.95,
+      "tempo_horas": 1.43,
+      "custo_reais": 49.47
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Coromandel",
+      "distancia_km": 98.95,
+      "tempo_horas": 1.43,
+      "custo_reais": 49.47
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Douradoquara",
+      "distancia_km": 61.71,
+      "tempo_horas": 0.99,
+      "custo_reais": 30.86
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Coromandel",
+      "distancia_km": 61.71,
+      "tempo_horas": 0.99,
+      "custo_reais": 30.86
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Grupiara",
+      "distancia_km": 92.94,
+      "tempo_horas": 1.57,
+      "custo_reais": 46.47
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Coromandel",
+      "distancia_km": 92.94,
+      "tempo_horas": 1.57,
+      "custo_reais": 46.47
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Guarda-Mor",
+      "distancia_km": 102.69,
+      "tempo_horas": 1.41,
+      "custo_reais": 51.34
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Coromandel",
+      "distancia_km": 102.69,
+      "tempo_horas": 1.41,
+      "custo_reais": 51.34
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Guimarânia",
+      "distancia_km": 76.25,
+      "tempo_horas": 1.08,
+      "custo_reais": 38.13
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Coromandel",
+      "distancia_km": 76.25,
+      "tempo_horas": 1.08,
+      "custo_reais": 38.13
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Ibiá",
+      "distancia_km": 166.07,
+      "tempo_horas": 2.34,
+      "custo_reais": 83.03
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Coromandel",
+      "distancia_km": 166.07,
+      "tempo_horas": 2.34,
+      "custo_reais": 83.03
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Iraí de Minas",
+      "distancia_km": 96.15,
+      "tempo_horas": 1.44,
+      "custo_reais": 48.08
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Coromandel",
+      "distancia_km": 96.15,
+      "tempo_horas": 1.44,
+      "custo_reais": 48.08
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Lagamar",
+      "distancia_km": 66.91,
+      "tempo_horas": 1.33,
+      "custo_reais": 33.46
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Coromandel",
+      "distancia_km": 66.91,
+      "tempo_horas": 1.33,
+      "custo_reais": 33.46
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 134.77,
+      "tempo_horas": 1.89,
+      "custo_reais": 67.38
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Coromandel",
+      "distancia_km": 134.77,
+      "tempo_horas": 1.89,
+      "custo_reais": 67.38
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Lagoa Grande",
+      "distancia_km": 158.04,
+      "tempo_horas": 2.46,
+      "custo_reais": 79.02
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Coromandel",
+      "distancia_km": 158.04,
+      "tempo_horas": 2.46,
+      "custo_reais": 79.02
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Matutina",
+      "distancia_km": 206.62,
+      "tempo_horas": 3.05,
+      "custo_reais": 103.31
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Coromandel",
+      "distancia_km": 206.62,
+      "tempo_horas": 3.05,
+      "custo_reais": 103.31
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Monte Carmelo",
+      "distancia_km": 55.35,
+      "tempo_horas": 0.92,
+      "custo_reais": 27.67
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Coromandel",
+      "distancia_km": 55.35,
+      "tempo_horas": 0.92,
+      "custo_reais": 27.67
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 370.47,
+      "tempo_horas": 5.54,
+      "custo_reais": 185.24
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Coromandel",
+      "distancia_km": 370.47,
+      "tempo_horas": 5.54,
+      "custo_reais": 185.24
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Paineiras",
+      "distancia_km": 318.45,
+      "tempo_horas": 5.03,
+      "custo_reais": 159.22
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Coromandel",
+      "distancia_km": 318.45,
+      "tempo_horas": 5.03,
+      "custo_reais": 159.22
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Patos de Minas",
+      "distancia_km": 118.51,
+      "tempo_horas": 1.72,
+      "custo_reais": 59.26
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Coromandel",
+      "distancia_km": 118.51,
+      "tempo_horas": 1.72,
+      "custo_reais": 59.26
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Patrocínio",
+      "distancia_km": 76.95,
+      "tempo_horas": 1.16,
+      "custo_reais": 38.47
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Coromandel",
+      "distancia_km": 76.95,
+      "tempo_horas": 1.16,
+      "custo_reais": 38.47
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Pratinha",
+      "distancia_km": 202.94,
+      "tempo_horas": 2.84,
+      "custo_reais": 101.47
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Coromandel",
+      "distancia_km": 202.94,
+      "tempo_horas": 2.84,
+      "custo_reais": 101.47
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Presidente Olegário",
+      "distancia_km": 120.57,
+      "tempo_horas": 2.01,
+      "custo_reais": 60.29
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Coromandel",
+      "distancia_km": 120.57,
+      "tempo_horas": 2.01,
+      "custo_reais": 60.29
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 170.38,
+      "tempo_horas": 2.43,
+      "custo_reais": 85.19
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Coromandel",
+      "distancia_km": 170.38,
+      "tempo_horas": 2.43,
+      "custo_reais": 85.19
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 254.42,
+      "tempo_horas": 3.52,
+      "custo_reais": 127.21
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Coromandel",
+      "distancia_km": 254.42,
+      "tempo_horas": 3.52,
+      "custo_reais": 127.21
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 210.8,
+      "tempo_horas": 2.88,
+      "custo_reais": 105.4
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Coromandel",
+      "distancia_km": 210.8,
+      "tempo_horas": 2.88,
+      "custo_reais": 105.4
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "São Gotardo",
+      "distancia_km": 207.71,
+      "tempo_horas": 2.94,
+      "custo_reais": 103.86
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Coromandel",
+      "distancia_km": 207.71,
+      "tempo_horas": 2.94,
+      "custo_reais": 103.86
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Serra do Salitre",
+      "distancia_km": 116.36,
+      "tempo_horas": 1.77,
+      "custo_reais": 58.18
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Coromandel",
+      "distancia_km": 116.36,
+      "tempo_horas": 1.77,
+      "custo_reais": 58.18
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Tiros",
+      "distancia_km": 214.5,
+      "tempo_horas": 3.08,
+      "custo_reais": 107.25
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Coromandel",
+      "distancia_km": 214.5,
+      "tempo_horas": 3.08,
+      "custo_reais": 107.25
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Varjão de Minas",
+      "distancia_km": 179.59,
+      "tempo_horas": 2.46,
+      "custo_reais": 89.79
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Coromandel",
+      "distancia_km": 179.59,
+      "tempo_horas": 2.46,
+      "custo_reais": 89.79
+    },
+    {
+      "origem": "Coromandel",
+      "destino": "Vazante",
+      "distancia_km": 109.21,
+      "tempo_horas": 1.49,
+      "custo_reais": 54.6
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Coromandel",
+      "distancia_km": 109.21,
+      "tempo_horas": 1.49,
+      "custo_reais": 54.6
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Douradoquara",
+      "distancia_km": 163.39,
+      "tempo_horas": 2.46,
+      "custo_reais": 81.69
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 163.39,
+      "tempo_horas": 2.46,
+      "custo_reais": 81.69
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Grupiara",
+      "distancia_km": 166.24,
+      "tempo_horas": 2.56,
+      "custo_reais": 83.12
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 166.24,
+      "tempo_horas": 2.56,
+      "custo_reais": 83.12
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Guarda-Mor",
+      "distancia_km": 199.76,
+      "tempo_horas": 2.81,
+      "custo_reais": 99.88
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 199.76,
+      "tempo_horas": 2.81,
+      "custo_reais": 99.88
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Guimarânia",
+      "distancia_km": 23.0,
+      "tempo_horas": 0.37,
+      "custo_reais": 11.5
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 23.0,
+      "tempo_horas": 0.37,
+      "custo_reais": 11.5
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Ibiá",
+      "distancia_km": 88.6,
+      "tempo_horas": 1.24,
+      "custo_reais": 44.3
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 88.6,
+      "tempo_horas": 1.24,
+      "custo_reais": 44.3
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Iraí de Minas",
+      "distancia_km": 110.2,
+      "tempo_horas": 1.69,
+      "custo_reais": 55.1
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 110.2,
+      "tempo_horas": 1.69,
+      "custo_reais": 55.1
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Lagamar",
+      "distancia_km": 139.19,
+      "tempo_horas": 2.1,
+      "custo_reais": 69.6
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 139.19,
+      "tempo_horas": 2.1,
+      "custo_reais": 69.6
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 74.16,
+      "tempo_horas": 1.18,
+      "custo_reais": 37.08
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 74.16,
+      "tempo_horas": 1.18,
+      "custo_reais": 37.08
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Lagoa Grande",
+      "distancia_km": 162.03,
+      "tempo_horas": 2.39,
+      "custo_reais": 81.02
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 162.03,
+      "tempo_horas": 2.39,
+      "custo_reais": 81.02
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Matutina",
+      "distancia_km": 111.11,
+      "tempo_horas": 1.64,
+      "custo_reais": 55.56
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 111.11,
+      "tempo_horas": 1.64,
+      "custo_reais": 55.56
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Monte Carmelo",
+      "distancia_km": 129.14,
+      "tempo_horas": 1.93,
+      "custo_reais": 64.57
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 129.14,
+      "tempo_horas": 1.93,
+      "custo_reais": 64.57
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 270.72,
+      "tempo_horas": 4.32,
+      "custo_reais": 135.36
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 270.72,
+      "tempo_horas": 4.32,
+      "custo_reais": 135.36
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Paineiras",
+      "distancia_km": 222.94,
+      "tempo_horas": 3.63,
+      "custo_reais": 111.47
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 222.94,
+      "tempo_horas": 3.63,
+      "custo_reais": 111.47
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Patos de Minas",
+      "distancia_km": 57.9,
+      "tempo_horas": 1.01,
+      "custo_reais": 28.95
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 57.9,
+      "tempo_horas": 1.01,
+      "custo_reais": 28.95
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Patrocínio",
+      "distancia_km": 51.24,
+      "tempo_horas": 0.93,
+      "custo_reais": 25.62
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 51.24,
+      "tempo_horas": 0.93,
+      "custo_reais": 25.62
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Pratinha",
+      "distancia_km": 125.47,
+      "tempo_horas": 1.75,
+      "custo_reais": 62.73
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 125.47,
+      "tempo_horas": 1.75,
+      "custo_reais": 62.73
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Presidente Olegário",
+      "distancia_km": 86.66,
+      "tempo_horas": 1.46,
+      "custo_reais": 43.33
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 86.66,
+      "tempo_horas": 1.46,
+      "custo_reais": 43.33
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 74.87,
+      "tempo_horas": 1.02,
+      "custo_reais": 37.44
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 74.87,
+      "tempo_horas": 1.02,
+      "custo_reais": 37.44
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 158.91,
+      "tempo_horas": 2.11,
+      "custo_reais": 79.46
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 158.91,
+      "tempo_horas": 2.11,
+      "custo_reais": 79.46
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 150.19,
+      "tempo_horas": 2.17,
+      "custo_reais": 75.09
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 150.19,
+      "tempo_horas": 2.17,
+      "custo_reais": 75.09
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "São Gotardo",
+      "distancia_km": 112.2,
+      "tempo_horas": 1.53,
+      "custo_reais": 56.1
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 112.2,
+      "tempo_horas": 1.53,
+      "custo_reais": 56.1
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Serra do Salitre",
+      "distancia_km": 22.11,
+      "tempo_horas": 0.39,
+      "custo_reais": 11.06
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 22.11,
+      "tempo_horas": 0.39,
+      "custo_reais": 11.06
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Tiros",
+      "distancia_km": 134.0,
+      "tempo_horas": 1.95,
+      "custo_reais": 67.0
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 134.0,
+      "tempo_horas": 1.95,
+      "custo_reais": 67.0
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Varjão de Minas",
+      "distancia_km": 118.97,
+      "tempo_horas": 1.75,
+      "custo_reais": 59.49
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 118.97,
+      "tempo_horas": 1.75,
+      "custo_reais": 59.49
+    },
+    {
+      "origem": "Cruzeiro da Fortaleza",
+      "destino": "Vazante",
+      "distancia_km": 167.35,
+      "tempo_horas": 2.53,
+      "custo_reais": 83.68
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Cruzeiro da Fortaleza",
+      "distancia_km": 167.35,
+      "tempo_horas": 2.53,
+      "custo_reais": 83.68
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Grupiara",
+      "distancia_km": 32.18,
+      "tempo_horas": 0.9,
+      "custo_reais": 16.09
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Douradoquara",
+      "distancia_km": 32.18,
+      "tempo_horas": 0.9,
+      "custo_reais": 16.09
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Guarda-Mor",
+      "distancia_km": 159.68,
+      "tempo_horas": 2.2,
+      "custo_reais": 79.84
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Douradoquara",
+      "distancia_km": 159.68,
+      "tempo_horas": 2.2,
+      "custo_reais": 79.84
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Guimarânia",
+      "distancia_km": 141.05,
+      "tempo_horas": 2.05,
+      "custo_reais": 70.53
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Douradoquara",
+      "distancia_km": 141.05,
+      "tempo_horas": 2.05,
+      "custo_reais": 70.53
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Ibiá",
+      "distancia_km": 225.19,
+      "tempo_horas": 3.15,
+      "custo_reais": 112.59
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Douradoquara",
+      "distancia_km": 225.19,
+      "tempo_horas": 3.15,
+      "custo_reais": 112.59
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Iraí de Minas",
+      "distancia_km": 90.1,
+      "tempo_horas": 1.31,
+      "custo_reais": 45.05
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Douradoquara",
+      "distancia_km": 90.1,
+      "tempo_horas": 1.31,
+      "custo_reais": 45.05
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Lagamar",
+      "distancia_km": 123.91,
+      "tempo_horas": 2.12,
+      "custo_reais": 61.95
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Douradoquara",
+      "distancia_km": 123.91,
+      "tempo_horas": 2.12,
+      "custo_reais": 61.95
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 199.57,
+      "tempo_horas": 2.86,
+      "custo_reais": 99.78
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Douradoquara",
+      "distancia_km": 199.57,
+      "tempo_horas": 2.86,
+      "custo_reais": 99.78
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Lagoa Grande",
+      "distancia_km": 215.04,
+      "tempo_horas": 3.25,
+      "custo_reais": 107.52
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Douradoquara",
+      "distancia_km": 215.04,
+      "tempo_horas": 3.25,
+      "custo_reais": 107.52
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Matutina",
+      "distancia_km": 265.74,
+      "tempo_horas": 3.86,
+      "custo_reais": 132.87
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Douradoquara",
+      "distancia_km": 265.74,
+      "tempo_horas": 3.86,
+      "custo_reais": 132.87
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Monte Carmelo",
+      "distancia_km": 49.3,
+      "tempo_horas": 0.78,
+      "custo_reais": 24.65
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Douradoquara",
+      "distancia_km": 49.3,
+      "tempo_horas": 0.78,
+      "custo_reais": 24.65
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 435.27,
+      "tempo_horas": 6.5,
+      "custo_reais": 217.64
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Douradoquara",
+      "distancia_km": 435.27,
+      "tempo_horas": 6.5,
+      "custo_reais": 217.64
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Paineiras",
+      "distancia_km": 377.57,
+      "tempo_horas": 5.84,
+      "custo_reais": 188.78
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Douradoquara",
+      "distancia_km": 377.57,
+      "tempo_horas": 5.84,
+      "custo_reais": 188.78
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Patos de Minas",
+      "distancia_km": 183.31,
+      "tempo_horas": 2.68,
+      "custo_reais": 91.66
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Douradoquara",
+      "distancia_km": 183.31,
+      "tempo_horas": 2.68,
+      "custo_reais": 91.66
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Patrocínio",
+      "distancia_km": 131.45,
+      "tempo_horas": 1.88,
+      "custo_reais": 65.73
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Douradoquara",
+      "distancia_km": 131.45,
+      "tempo_horas": 1.88,
+      "custo_reais": 65.73
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Pratinha",
+      "distancia_km": 262.06,
+      "tempo_horas": 3.65,
+      "custo_reais": 131.03
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Douradoquara",
+      "distancia_km": 262.06,
+      "tempo_horas": 3.65,
+      "custo_reais": 131.03
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Presidente Olegário",
+      "distancia_km": 177.56,
+      "tempo_horas": 2.81,
+      "custo_reais": 88.78
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Douradoquara",
+      "distancia_km": 177.56,
+      "tempo_horas": 2.81,
+      "custo_reais": 88.78
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 229.5,
+      "tempo_horas": 3.23,
+      "custo_reais": 114.75
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Douradoquara",
+      "distancia_km": 229.5,
+      "tempo_horas": 3.23,
+      "custo_reais": 114.75
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 313.54,
+      "tempo_horas": 4.33,
+      "custo_reais": 156.77
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Douradoquara",
+      "distancia_km": 313.54,
+      "tempo_horas": 4.33,
+      "custo_reais": 156.77
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 275.6,
+      "tempo_horas": 3.85,
+      "custo_reais": 137.8
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Douradoquara",
+      "distancia_km": 275.6,
+      "tempo_horas": 3.85,
+      "custo_reais": 137.8
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "São Gotardo",
+      "distancia_km": 266.83,
+      "tempo_horas": 3.75,
+      "custo_reais": 133.42
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Douradoquara",
+      "distancia_km": 266.83,
+      "tempo_horas": 3.75,
+      "custo_reais": 133.42
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Serra do Salitre",
+      "distancia_km": 175.48,
+      "tempo_horas": 2.58,
+      "custo_reais": 87.74
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Douradoquara",
+      "distancia_km": 175.48,
+      "tempo_horas": 2.58,
+      "custo_reais": 87.74
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Tiros",
+      "distancia_km": 279.3,
+      "tempo_horas": 4.05,
+      "custo_reais": 139.65
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Douradoquara",
+      "distancia_km": 279.3,
+      "tempo_horas": 4.05,
+      "custo_reais": 139.65
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Varjão de Minas",
+      "distancia_km": 244.38,
+      "tempo_horas": 3.42,
+      "custo_reais": 122.19
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Douradoquara",
+      "distancia_km": 244.38,
+      "tempo_horas": 3.42,
+      "custo_reais": 122.19
+    },
+    {
+      "origem": "Douradoquara",
+      "destino": "Vazante",
+      "distancia_km": 166.2,
+      "tempo_horas": 2.29,
+      "custo_reais": 83.1
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Douradoquara",
+      "distancia_km": 166.2,
+      "tempo_horas": 2.29,
+      "custo_reais": 83.1
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Guarda-Mor",
+      "distancia_km": 190.72,
+      "tempo_horas": 2.75,
+      "custo_reais": 95.36
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Grupiara",
+      "distancia_km": 190.72,
+      "tempo_horas": 2.75,
+      "custo_reais": 95.36
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Guimarânia",
+      "distancia_km": 144.0,
+      "tempo_horas": 2.12,
+      "custo_reais": 72.0
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Grupiara",
+      "distancia_km": 144.0,
+      "tempo_horas": 2.12,
+      "custo_reais": 72.0
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Ibiá",
+      "distancia_km": 213.52,
+      "tempo_horas": 3.07,
+      "custo_reais": 106.76
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Grupiara",
+      "distancia_km": 213.52,
+      "tempo_horas": 3.07,
+      "custo_reais": 106.76
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Iraí de Minas",
+      "distancia_km": 78.44,
+      "tempo_horas": 1.23,
+      "custo_reais": 39.22
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Grupiara",
+      "distancia_km": 78.44,
+      "tempo_horas": 1.23,
+      "custo_reais": 39.22
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Lagamar",
+      "distancia_km": 154.94,
+      "tempo_horas": 2.67,
+      "custo_reais": 77.47
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Grupiara",
+      "distancia_km": 154.94,
+      "tempo_horas": 2.67,
+      "custo_reais": 77.47
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 202.51,
+      "tempo_horas": 2.93,
+      "custo_reais": 101.26
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Grupiara",
+      "distancia_km": 202.51,
+      "tempo_horas": 2.93,
+      "custo_reais": 101.26
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Lagoa Grande",
+      "distancia_km": 246.07,
+      "tempo_horas": 3.8,
+      "custo_reais": 123.04
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Grupiara",
+      "distancia_km": 246.07,
+      "tempo_horas": 3.8,
+      "custo_reais": 123.04
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Matutina",
+      "distancia_km": 254.08,
+      "tempo_horas": 3.78,
+      "custo_reais": 127.04
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Grupiara",
+      "distancia_km": 254.08,
+      "tempo_horas": 3.78,
+      "custo_reais": 127.04
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Monte Carmelo",
+      "distancia_km": 40.26,
+      "tempo_horas": 0.78,
+      "custo_reais": 20.13
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Grupiara",
+      "distancia_km": 40.26,
+      "tempo_horas": 0.78,
+      "custo_reais": 20.13
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 438.22,
+      "tempo_horas": 6.58,
+      "custo_reais": 219.11
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Grupiara",
+      "distancia_km": 438.22,
+      "tempo_horas": 6.58,
+      "custo_reais": 219.11
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Paineiras",
+      "distancia_km": 365.9,
+      "tempo_horas": 5.77,
+      "custo_reais": 182.95
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Grupiara",
+      "distancia_km": 365.9,
+      "tempo_horas": 5.77,
+      "custo_reais": 182.95
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Patos de Minas",
+      "distancia_km": 186.26,
+      "tempo_horas": 2.76,
+      "custo_reais": 93.13
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Grupiara",
+      "distancia_km": 186.26,
+      "tempo_horas": 2.76,
+      "custo_reais": 93.13
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Patrocínio",
+      "distancia_km": 119.79,
+      "tempo_horas": 1.81,
+      "custo_reais": 59.89
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Grupiara",
+      "distancia_km": 119.79,
+      "tempo_horas": 1.81,
+      "custo_reais": 59.89
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Pratinha",
+      "distancia_km": 250.39,
+      "tempo_horas": 3.58,
+      "custo_reais": 125.19
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Grupiara",
+      "distancia_km": 250.39,
+      "tempo_horas": 3.58,
+      "custo_reais": 125.19
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Presidente Olegário",
+      "distancia_km": 215.01,
+      "tempo_horas": 3.21,
+      "custo_reais": 107.51
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Grupiara",
+      "distancia_km": 215.01,
+      "tempo_horas": 3.21,
+      "custo_reais": 107.51
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 217.84,
+      "tempo_horas": 3.16,
+      "custo_reais": 108.92
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Grupiara",
+      "distancia_km": 217.84,
+      "tempo_horas": 3.16,
+      "custo_reais": 108.92
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 301.88,
+      "tempo_horas": 4.25,
+      "custo_reais": 150.94
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Grupiara",
+      "distancia_km": 301.88,
+      "tempo_horas": 4.25,
+      "custo_reais": 150.94
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 278.55,
+      "tempo_horas": 3.92,
+      "custo_reais": 139.27
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Grupiara",
+      "distancia_km": 278.55,
+      "tempo_horas": 3.92,
+      "custo_reais": 139.27
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "São Gotardo",
+      "distancia_km": 255.17,
+      "tempo_horas": 3.67,
+      "custo_reais": 127.58
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Grupiara",
+      "distancia_km": 255.17,
+      "tempo_horas": 3.67,
+      "custo_reais": 127.58
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Serra do Salitre",
+      "distancia_km": 163.81,
+      "tempo_horas": 2.51,
+      "custo_reais": 81.91
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Grupiara",
+      "distancia_km": 163.81,
+      "tempo_horas": 2.51,
+      "custo_reais": 81.91
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Tiros",
+      "distancia_km": 276.97,
+      "tempo_horas": 4.09,
+      "custo_reais": 138.48
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Grupiara",
+      "distancia_km": 276.97,
+      "tempo_horas": 4.09,
+      "custo_reais": 138.48
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Varjão de Minas",
+      "distancia_km": 247.33,
+      "tempo_horas": 3.5,
+      "custo_reais": 123.67
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Grupiara",
+      "distancia_km": 247.33,
+      "tempo_horas": 3.5,
+      "custo_reais": 123.67
+    },
+    {
+      "origem": "Grupiara",
+      "destino": "Vazante",
+      "distancia_km": 197.24,
+      "tempo_horas": 2.84,
+      "custo_reais": 98.62
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Grupiara",
+      "distancia_km": 197.24,
+      "tempo_horas": 2.84,
+      "custo_reais": 98.62
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Guimarânia",
+      "distancia_km": 177.3,
+      "tempo_horas": 2.48,
+      "custo_reais": 88.65
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Guarda-Mor",
+      "distancia_km": 177.3,
+      "tempo_horas": 2.48,
+      "custo_reais": 88.65
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Ibiá",
+      "distancia_km": 267.11,
+      "tempo_horas": 3.73,
+      "custo_reais": 133.56
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Guarda-Mor",
+      "distancia_km": 267.11,
+      "tempo_horas": 3.73,
+      "custo_reais": 133.56
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Iraí de Minas",
+      "distancia_km": 193.81,
+      "tempo_horas": 2.72,
+      "custo_reais": 96.9
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Guarda-Mor",
+      "distancia_km": 193.81,
+      "tempo_horas": 2.72,
+      "custo_reais": 96.9
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Lagamar",
+      "distancia_km": 69.28,
+      "tempo_horas": 1.06,
+      "custo_reais": 34.64
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Guarda-Mor",
+      "distancia_km": 69.28,
+      "tempo_horas": 1.06,
+      "custo_reais": 34.64
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 172.3,
+      "tempo_horas": 2.5,
+      "custo_reais": 86.15
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Guarda-Mor",
+      "distancia_km": 172.3,
+      "tempo_horas": 2.5,
+      "custo_reais": 86.15
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Lagoa Grande",
+      "distancia_km": 161.37,
+      "tempo_horas": 2.23,
+      "custo_reais": 80.68
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Guarda-Mor",
+      "distancia_km": 161.37,
+      "tempo_horas": 2.23,
+      "custo_reais": 80.68
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Matutina",
+      "distancia_km": 256.85,
+      "tempo_horas": 3.74,
+      "custo_reais": 128.42
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Guarda-Mor",
+      "distancia_km": 256.85,
+      "tempo_horas": 3.74,
+      "custo_reais": 128.42
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Monte Carmelo",
+      "distancia_km": 153.0,
+      "tempo_horas": 2.19,
+      "custo_reais": 76.5
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Guarda-Mor",
+      "distancia_km": 153.0,
+      "tempo_horas": 2.19,
+      "custo_reais": 76.5
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 384.41,
+      "tempo_horas": 5.6,
+      "custo_reais": 192.2
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Guarda-Mor",
+      "distancia_km": 384.41,
+      "tempo_horas": 5.6,
+      "custo_reais": 192.2
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Paineiras",
+      "distancia_km": 368.68,
+      "tempo_horas": 5.73,
+      "custo_reais": 184.34
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Guarda-Mor",
+      "distancia_km": 368.68,
+      "tempo_horas": 5.73,
+      "custo_reais": 184.34
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Patos de Minas",
+      "distancia_km": 153.33,
+      "tempo_horas": 2.3,
+      "custo_reais": 76.66
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Guarda-Mor",
+      "distancia_km": 153.33,
+      "tempo_horas": 2.3,
+      "custo_reais": 76.66
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Patrocínio",
+      "distancia_km": 177.99,
+      "tempo_horas": 2.55,
+      "custo_reais": 89.0
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Guarda-Mor",
+      "distancia_km": 177.99,
+      "tempo_horas": 2.55,
+      "custo_reais": 89.0
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Pratinha",
+      "distancia_km": 303.98,
+      "tempo_horas": 4.24,
+      "custo_reais": 151.99
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Guarda-Mor",
+      "distancia_km": 303.98,
+      "tempo_horas": 4.24,
+      "custo_reais": 151.99
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Presidente Olegário",
+      "distancia_km": 123.9,
+      "tempo_horas": 1.78,
+      "custo_reais": 61.95
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Guarda-Mor",
+      "distancia_km": 123.9,
+      "tempo_horas": 1.78,
+      "custo_reais": 61.95
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 246.74,
+      "tempo_horas": 3.42,
+      "custo_reais": 123.37
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Guarda-Mor",
+      "distancia_km": 246.74,
+      "tempo_horas": 3.42,
+      "custo_reais": 123.37
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 308.75,
+      "tempo_horas": 4.25,
+      "custo_reais": 154.37
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Guarda-Mor",
+      "distancia_km": 308.75,
+      "tempo_horas": 4.25,
+      "custo_reais": 154.37
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 238.5,
+      "tempo_horas": 3.39,
+      "custo_reais": 119.25
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Guarda-Mor",
+      "distancia_km": 238.5,
+      "tempo_horas": 3.39,
+      "custo_reais": 119.25
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "São Gotardo",
+      "distancia_km": 262.03,
+      "tempo_horas": 3.67,
+      "custo_reais": 131.02
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Guarda-Mor",
+      "distancia_km": 262.03,
+      "tempo_horas": 3.67,
+      "custo_reais": 131.02
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Serra do Salitre",
+      "distancia_km": 217.41,
+      "tempo_horas": 3.16,
+      "custo_reais": 108.7
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Guarda-Mor",
+      "distancia_km": 217.41,
+      "tempo_horas": 3.16,
+      "custo_reais": 108.7
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Tiros",
+      "distancia_km": 252.03,
+      "tempo_horas": 3.69,
+      "custo_reais": 126.02
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Guarda-Mor",
+      "distancia_km": 252.03,
+      "tempo_horas": 3.69,
+      "custo_reais": 126.02
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Varjão de Minas",
+      "distancia_km": 207.28,
+      "tempo_horas": 2.96,
+      "custo_reais": 103.64
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Guarda-Mor",
+      "distancia_km": 207.28,
+      "tempo_horas": 2.96,
+      "custo_reais": 103.64
+    },
+    {
+      "origem": "Guarda-Mor",
+      "destino": "Vazante",
+      "distancia_km": 40.85,
+      "tempo_horas": 0.61,
+      "custo_reais": 20.42
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Guarda-Mor",
+      "distancia_km": 40.85,
+      "tempo_horas": 0.61,
+      "custo_reais": 20.42
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Ibiá",
+      "distancia_km": 111.4,
+      "tempo_horas": 1.58,
+      "custo_reais": 55.7
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Guimarânia",
+      "distancia_km": 111.4,
+      "tempo_horas": 1.58,
+      "custo_reais": 55.7
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Iraí de Minas",
+      "distancia_km": 87.19,
+      "tempo_horas": 1.32,
+      "custo_reais": 43.6
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Guimarânia",
+      "distancia_km": 87.19,
+      "tempo_horas": 1.32,
+      "custo_reais": 43.6
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Lagamar",
+      "distancia_km": 127.47,
+      "tempo_horas": 1.84,
+      "custo_reais": 63.73
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Guimarânia",
+      "distancia_km": 127.47,
+      "tempo_horas": 1.84,
+      "custo_reais": 63.73
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 62.43,
+      "tempo_horas": 0.92,
+      "custo_reais": 31.22
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Guimarânia",
+      "distancia_km": 62.43,
+      "tempo_horas": 0.92,
+      "custo_reais": 31.22
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Lagoa Grande",
+      "distancia_km": 150.31,
+      "tempo_horas": 2.14,
+      "custo_reais": 75.15
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Guimarânia",
+      "distancia_km": 150.31,
+      "tempo_horas": 2.14,
+      "custo_reais": 75.15
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Matutina",
+      "distancia_km": 133.91,
+      "tempo_horas": 1.98,
+      "custo_reais": 66.96
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Guimarânia",
+      "distancia_km": 133.91,
+      "tempo_horas": 1.98,
+      "custo_reais": 66.96
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Monte Carmelo",
+      "distancia_km": 106.14,
+      "tempo_horas": 1.56,
+      "custo_reais": 53.07
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Guimarânia",
+      "distancia_km": 106.14,
+      "tempo_horas": 1.56,
+      "custo_reais": 53.07
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 298.14,
+      "tempo_horas": 4.57,
+      "custo_reais": 149.07
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Guimarânia",
+      "distancia_km": 298.14,
+      "tempo_horas": 4.57,
+      "custo_reais": 149.07
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Paineiras",
+      "distancia_km": 245.74,
+      "tempo_horas": 3.96,
+      "custo_reais": 122.87
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Guimarânia",
+      "distancia_km": 245.74,
+      "tempo_horas": 3.96,
+      "custo_reais": 122.87
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Patos de Minas",
+      "distancia_km": 46.17,
+      "tempo_horas": 0.75,
+      "custo_reais": 23.09
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Guimarânia",
+      "distancia_km": 46.17,
+      "tempo_horas": 0.75,
+      "custo_reais": 23.09
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Patrocínio",
+      "distancia_km": 28.24,
+      "tempo_horas": 0.56,
+      "custo_reais": 14.12
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Guimarânia",
+      "distancia_km": 28.24,
+      "tempo_horas": 0.56,
+      "custo_reais": 14.12
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Pratinha",
+      "distancia_km": 148.27,
+      "tempo_horas": 2.08,
+      "custo_reais": 74.13
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Guimarânia",
+      "distancia_km": 148.27,
+      "tempo_horas": 2.08,
+      "custo_reais": 74.13
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Presidente Olegário",
+      "distancia_km": 74.93,
+      "tempo_horas": 1.2,
+      "custo_reais": 37.47
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Guimarânia",
+      "distancia_km": 74.93,
+      "tempo_horas": 1.2,
+      "custo_reais": 37.47
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 97.67,
+      "tempo_horas": 1.36,
+      "custo_reais": 48.83
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Guimarânia",
+      "distancia_km": 97.67,
+      "tempo_horas": 1.36,
+      "custo_reais": 48.83
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 181.71,
+      "tempo_horas": 2.45,
+      "custo_reais": 90.86
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Guimarânia",
+      "distancia_km": 181.71,
+      "tempo_horas": 2.45,
+      "custo_reais": 90.86
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 138.46,
+      "tempo_horas": 1.91,
+      "custo_reais": 69.23
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Guimarânia",
+      "distancia_km": 138.46,
+      "tempo_horas": 1.91,
+      "custo_reais": 69.23
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "São Gotardo",
+      "distancia_km": 135.0,
+      "tempo_horas": 1.87,
+      "custo_reais": 67.5
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Guimarânia",
+      "distancia_km": 135.0,
+      "tempo_horas": 1.87,
+      "custo_reais": 67.5
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Serra do Salitre",
+      "distancia_km": 44.91,
+      "tempo_horas": 0.72,
+      "custo_reais": 22.46
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Guimarânia",
+      "distancia_km": 44.91,
+      "tempo_horas": 0.72,
+      "custo_reais": 22.46
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Tiros",
+      "distancia_km": 142.17,
+      "tempo_horas": 2.11,
+      "custo_reais": 71.08
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Guimarânia",
+      "distancia_km": 142.17,
+      "tempo_horas": 2.11,
+      "custo_reais": 71.08
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Varjão de Minas",
+      "distancia_km": 107.25,
+      "tempo_horas": 1.49,
+      "custo_reais": 53.62
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Guimarânia",
+      "distancia_km": 107.25,
+      "tempo_horas": 1.49,
+      "custo_reais": 53.62
+    },
+    {
+      "origem": "Guimarânia",
+      "destino": "Vazante",
+      "distancia_km": 155.62,
+      "tempo_horas": 2.27,
+      "custo_reais": 77.81
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Guimarânia",
+      "distancia_km": 155.62,
+      "tempo_horas": 2.27,
+      "custo_reais": 77.81
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Iraí de Minas",
+      "distancia_km": 157.43,
+      "tempo_horas": 2.22,
+      "custo_reais": 78.72
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Ibiá",
+      "distancia_km": 157.43,
+      "tempo_horas": 2.22,
+      "custo_reais": 78.72
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Lagamar",
+      "distancia_km": 224.8,
+      "tempo_horas": 3.06,
+      "custo_reais": 112.4
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Ibiá",
+      "distancia_km": 224.8,
+      "tempo_horas": 3.06,
+      "custo_reais": 112.4
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 132.6,
+      "tempo_horas": 1.72,
+      "custo_reais": 66.3
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Ibiá",
+      "distancia_km": 132.6,
+      "tempo_horas": 1.72,
+      "custo_reais": 66.3
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Lagoa Grande",
+      "distancia_km": 247.64,
+      "tempo_horas": 3.36,
+      "custo_reais": 123.82
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Ibiá",
+      "distancia_km": 247.64,
+      "tempo_horas": 3.36,
+      "custo_reais": 123.82
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Matutina",
+      "distancia_km": 85.93,
+      "tempo_horas": 1.3,
+      "custo_reais": 42.97
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Ibiá",
+      "distancia_km": 85.93,
+      "tempo_horas": 1.3,
+      "custo_reais": 42.97
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Monte Carmelo",
+      "distancia_km": 176.38,
+      "tempo_horas": 2.46,
+      "custo_reais": 88.19
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Ibiá",
+      "distancia_km": 176.38,
+      "tempo_horas": 2.46,
+      "custo_reais": 88.19
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 245.54,
+      "tempo_horas": 3.97,
+      "custo_reais": 122.77
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Ibiá",
+      "distancia_km": 245.54,
+      "tempo_horas": 3.97,
+      "custo_reais": 122.77
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Paineiras",
+      "distancia_km": 197.76,
+      "tempo_horas": 3.28,
+      "custo_reais": 98.88
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Ibiá",
+      "distancia_km": 197.76,
+      "tempo_horas": 3.28,
+      "custo_reais": 98.88
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Patos de Minas",
+      "distancia_km": 143.51,
+      "tempo_horas": 1.97,
+      "custo_reais": 71.76
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Ibiá",
+      "distancia_km": 143.51,
+      "tempo_horas": 1.97,
+      "custo_reais": 71.76
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Patrocínio",
+      "distancia_km": 94.49,
+      "tempo_horas": 1.38,
+      "custo_reais": 47.24
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Ibiá",
+      "distancia_km": 94.49,
+      "tempo_horas": 1.38,
+      "custo_reais": 47.24
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Pratinha",
+      "distancia_km": 41.25,
+      "tempo_horas": 0.65,
+      "custo_reais": 20.63
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Ibiá",
+      "distancia_km": 41.25,
+      "tempo_horas": 0.65,
+      "custo_reais": 20.63
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Presidente Olegário",
+      "distancia_km": 172.27,
+      "tempo_horas": 2.43,
+      "custo_reais": 86.13
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Ibiá",
+      "distancia_km": 172.27,
+      "tempo_horas": 2.43,
+      "custo_reais": 86.13
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 77.95,
+      "tempo_horas": 1.06,
+      "custo_reais": 38.98
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Ibiá",
+      "distancia_km": 77.95,
+      "tempo_horas": 1.06,
+      "custo_reais": 38.98
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 96.97,
+      "tempo_horas": 1.36,
+      "custo_reais": 48.49
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Ibiá",
+      "distancia_km": 96.97,
+      "tempo_horas": 1.36,
+      "custo_reais": 48.49
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 235.8,
+      "tempo_horas": 3.14,
+      "custo_reais": 117.9
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Ibiá",
+      "distancia_km": 235.8,
+      "tempo_horas": 3.14,
+      "custo_reais": 117.9
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "São Gotardo",
+      "distancia_km": 64.29,
+      "tempo_horas": 0.97,
+      "custo_reais": 32.15
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Ibiá",
+      "distancia_km": 64.29,
+      "tempo_horas": 0.97,
+      "custo_reais": 32.15
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Serra do Salitre",
+      "distancia_km": 66.63,
+      "tempo_horas": 0.89,
+      "custo_reais": 33.31
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Ibiá",
+      "distancia_km": 66.63,
+      "tempo_horas": 0.89,
+      "custo_reais": 33.31
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Tiros",
+      "distancia_km": 108.83,
+      "tempo_horas": 1.6,
+      "custo_reais": 54.41
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Ibiá",
+      "distancia_km": 108.83,
+      "tempo_horas": 1.6,
+      "custo_reais": 54.41
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Varjão de Minas",
+      "distancia_km": 204.58,
+      "tempo_horas": 2.71,
+      "custo_reais": 102.29
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Ibiá",
+      "distancia_km": 204.58,
+      "tempo_horas": 2.71,
+      "custo_reais": 102.29
+    },
+    {
+      "origem": "Ibiá",
+      "destino": "Vazante",
+      "distancia_km": 252.96,
+      "tempo_horas": 3.49,
+      "custo_reais": 126.48
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Ibiá",
+      "distancia_km": 252.96,
+      "tempo_horas": 3.49,
+      "custo_reais": 126.48
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Lagamar",
+      "distancia_km": 157.93,
+      "tempo_horas": 2.53,
+      "custo_reais": 78.97
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Iraí de Minas",
+      "distancia_km": 157.93,
+      "tempo_horas": 2.53,
+      "custo_reais": 78.97
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 145.81,
+      "tempo_horas": 2.04,
+      "custo_reais": 72.91
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Iraí de Minas",
+      "distancia_km": 145.81,
+      "tempo_horas": 2.04,
+      "custo_reais": 72.91
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Lagoa Grande",
+      "distancia_km": 233.69,
+      "tempo_horas": 3.26,
+      "custo_reais": 116.84
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Iraí de Minas",
+      "distancia_km": 233.69,
+      "tempo_horas": 3.26,
+      "custo_reais": 116.84
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Matutina",
+      "distancia_km": 197.38,
+      "tempo_horas": 2.9,
+      "custo_reais": 98.69
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Iraí de Minas",
+      "distancia_km": 197.38,
+      "tempo_horas": 2.9,
+      "custo_reais": 98.69
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Monte Carmelo",
+      "distancia_km": 41.28,
+      "tempo_horas": 0.61,
+      "custo_reais": 20.64
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Iraí de Minas",
+      "distancia_km": 41.28,
+      "tempo_horas": 0.61,
+      "custo_reais": 20.64
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 381.52,
+      "tempo_horas": 5.69,
+      "custo_reais": 190.76
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Iraí de Minas",
+      "distancia_km": 381.52,
+      "tempo_horas": 5.69,
+      "custo_reais": 190.76
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Paineiras",
+      "distancia_km": 309.2,
+      "tempo_horas": 4.88,
+      "custo_reais": 154.6
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Iraí de Minas",
+      "distancia_km": 309.2,
+      "tempo_horas": 4.88,
+      "custo_reais": 154.6
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Patos de Minas",
+      "distancia_km": 129.56,
+      "tempo_horas": 1.87,
+      "custo_reais": 64.78
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Iraí de Minas",
+      "distancia_km": 129.56,
+      "tempo_horas": 1.87,
+      "custo_reais": 64.78
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Patrocínio",
+      "distancia_km": 63.08,
+      "tempo_horas": 0.93,
+      "custo_reais": 31.54
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Iraí de Minas",
+      "distancia_km": 63.08,
+      "tempo_horas": 0.93,
+      "custo_reais": 31.54
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Pratinha",
+      "distancia_km": 193.69,
+      "tempo_horas": 2.69,
+      "custo_reais": 96.84
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Iraí de Minas",
+      "distancia_km": 193.69,
+      "tempo_horas": 2.69,
+      "custo_reais": 96.84
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Presidente Olegário",
+      "distancia_km": 158.31,
+      "tempo_horas": 2.33,
+      "custo_reais": 79.16
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Iraí de Minas",
+      "distancia_km": 158.31,
+      "tempo_horas": 2.33,
+      "custo_reais": 79.16
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 161.13,
+      "tempo_horas": 2.28,
+      "custo_reais": 80.57
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Iraí de Minas",
+      "distancia_km": 161.13,
+      "tempo_horas": 2.28,
+      "custo_reais": 80.57
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 245.18,
+      "tempo_horas": 3.37,
+      "custo_reais": 122.59
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Iraí de Minas",
+      "distancia_km": 245.18,
+      "tempo_horas": 3.37,
+      "custo_reais": 122.59
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 221.84,
+      "tempo_horas": 3.04,
+      "custo_reais": 110.92
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Iraí de Minas",
+      "distancia_km": 221.84,
+      "tempo_horas": 3.04,
+      "custo_reais": 110.92
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "São Gotardo",
+      "distancia_km": 198.47,
+      "tempo_horas": 2.79,
+      "custo_reais": 99.23
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Iraí de Minas",
+      "distancia_km": 198.47,
+      "tempo_horas": 2.79,
+      "custo_reais": 99.23
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Serra do Salitre",
+      "distancia_km": 107.11,
+      "tempo_horas": 1.62,
+      "custo_reais": 53.56
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Iraí de Minas",
+      "distancia_km": 107.11,
+      "tempo_horas": 1.62,
+      "custo_reais": 53.56
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Tiros",
+      "distancia_km": 220.27,
+      "tempo_horas": 3.2,
+      "custo_reais": 110.13
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Iraí de Minas",
+      "distancia_km": 220.27,
+      "tempo_horas": 3.2,
+      "custo_reais": 110.13
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Varjão de Minas",
+      "distancia_km": 190.63,
+      "tempo_horas": 2.61,
+      "custo_reais": 95.31
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Iraí de Minas",
+      "distancia_km": 190.63,
+      "tempo_horas": 2.61,
+      "custo_reais": 95.31
+    },
+    {
+      "origem": "Iraí de Minas",
+      "destino": "Vazante",
+      "distancia_km": 200.22,
+      "tempo_horas": 2.69,
+      "custo_reais": 100.11
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Iraí de Minas",
+      "distancia_km": 200.22,
+      "tempo_horas": 2.69,
+      "custo_reais": 100.11
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 103.24,
+      "tempo_horas": 1.46,
+      "custo_reais": 51.62
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Lagamar",
+      "distancia_km": 103.24,
+      "tempo_horas": 1.46,
+      "custo_reais": 51.62
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Lagoa Grande",
+      "distancia_km": 92.31,
+      "tempo_horas": 1.19,
+      "custo_reais": 46.16
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Lagamar",
+      "distancia_km": 92.31,
+      "tempo_horas": 1.19,
+      "custo_reais": 46.16
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Matutina",
+      "distancia_km": 187.8,
+      "tempo_horas": 2.71,
+      "custo_reais": 93.9
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Lagamar",
+      "distancia_km": 187.8,
+      "tempo_horas": 2.71,
+      "custo_reais": 93.9
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Monte Carmelo",
+      "distancia_km": 117.3,
+      "tempo_horas": 2.07,
+      "custo_reais": 58.65
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Lagamar",
+      "distancia_km": 117.3,
+      "tempo_horas": 2.07,
+      "custo_reais": 58.65
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 344.15,
+      "tempo_horas": 4.98,
+      "custo_reais": 172.08
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Lagamar",
+      "distancia_km": 344.15,
+      "tempo_horas": 4.98,
+      "custo_reais": 172.08
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Paineiras",
+      "distancia_km": 299.62,
+      "tempo_horas": 4.69,
+      "custo_reais": 149.81
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Lagamar",
+      "distancia_km": 299.62,
+      "tempo_horas": 4.69,
+      "custo_reais": 149.81
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Patos de Minas",
+      "distancia_km": 84.28,
+      "tempo_horas": 1.26,
+      "custo_reais": 42.14
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Lagamar",
+      "distancia_km": 84.28,
+      "tempo_horas": 1.26,
+      "custo_reais": 42.14
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Patrocínio",
+      "distancia_km": 151.8,
+      "tempo_horas": 2.19,
+      "custo_reais": 75.9
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Lagamar",
+      "distancia_km": 151.8,
+      "tempo_horas": 2.19,
+      "custo_reais": 75.9
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Pratinha",
+      "distancia_km": 261.63,
+      "tempo_horas": 3.53,
+      "custo_reais": 130.82
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Lagamar",
+      "distancia_km": 261.63,
+      "tempo_horas": 3.53,
+      "custo_reais": 130.82
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Presidente Olegário",
+      "distancia_km": 54.84,
+      "tempo_horas": 0.75,
+      "custo_reais": 27.42
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Lagamar",
+      "distancia_km": 54.84,
+      "tempo_horas": 0.75,
+      "custo_reais": 27.42
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 177.68,
+      "tempo_horas": 2.39,
+      "custo_reais": 88.84
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Lagamar",
+      "distancia_km": 177.68,
+      "tempo_horas": 2.39,
+      "custo_reais": 88.84
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 239.69,
+      "tempo_horas": 3.22,
+      "custo_reais": 119.85
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Lagamar",
+      "distancia_km": 239.69,
+      "tempo_horas": 3.22,
+      "custo_reais": 119.85
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 169.45,
+      "tempo_horas": 2.35,
+      "custo_reais": 84.72
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Lagamar",
+      "distancia_km": 169.45,
+      "tempo_horas": 2.35,
+      "custo_reais": 84.72
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "São Gotardo",
+      "distancia_km": 192.98,
+      "tempo_horas": 2.64,
+      "custo_reais": 96.49
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Lagamar",
+      "distancia_km": 192.98,
+      "tempo_horas": 2.64,
+      "custo_reais": 96.49
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Serra do Salitre",
+      "distancia_km": 158.28,
+      "tempo_horas": 2.17,
+      "custo_reais": 79.14
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Lagamar",
+      "distancia_km": 158.28,
+      "tempo_horas": 2.17,
+      "custo_reais": 79.14
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Tiros",
+      "distancia_km": 182.98,
+      "tempo_horas": 2.65,
+      "custo_reais": 91.49
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Lagamar",
+      "distancia_km": 182.98,
+      "tempo_horas": 2.65,
+      "custo_reais": 91.49
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Varjão de Minas",
+      "distancia_km": 138.23,
+      "tempo_horas": 1.93,
+      "custo_reais": 69.12
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Lagamar",
+      "distancia_km": 138.23,
+      "tempo_horas": 1.93,
+      "custo_reais": 69.12
+    },
+    {
+      "origem": "Lagamar",
+      "destino": "Vazante",
+      "distancia_km": 28.26,
+      "tempo_horas": 0.45,
+      "custo_reais": 14.13
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Lagamar",
+      "distancia_km": 28.26,
+      "tempo_horas": 0.45,
+      "custo_reais": 14.13
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Lagoa Grande",
+      "distancia_km": 126.28,
+      "tempo_horas": 1.81,
+      "custo_reais": 63.14
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 126.28,
+      "tempo_horas": 1.81,
+      "custo_reais": 63.14
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Matutina",
+      "distancia_km": 86.39,
+      "tempo_horas": 1.36,
+      "custo_reais": 43.2
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 86.39,
+      "tempo_horas": 1.36,
+      "custo_reais": 43.2
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Monte Carmelo",
+      "distancia_km": 165.69,
+      "tempo_horas": 2.34,
+      "custo_reais": 82.84
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 165.69,
+      "tempo_horas": 2.34,
+      "custo_reais": 82.84
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 246.0,
+      "tempo_horas": 4.03,
+      "custo_reais": 123.0
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 246.0,
+      "tempo_horas": 4.03,
+      "custo_reais": 123.0
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Paineiras",
+      "distancia_km": 198.22,
+      "tempo_horas": 3.34,
+      "custo_reais": 99.11
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 198.22,
+      "tempo_horas": 3.34,
+      "custo_reais": 99.11
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Patos de Minas",
+      "distancia_km": 25.29,
+      "tempo_horas": 0.46,
+      "custo_reais": 12.64
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 25.29,
+      "tempo_horas": 0.46,
+      "custo_reais": 12.64
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Patrocínio",
+      "distancia_km": 87.79,
+      "tempo_horas": 1.34,
+      "custo_reais": 43.9
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 87.79,
+      "tempo_horas": 1.34,
+      "custo_reais": 43.9
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Pratinha",
+      "distancia_km": 174.0,
+      "tempo_horas": 2.39,
+      "custo_reais": 87.0
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 174.0,
+      "tempo_horas": 2.39,
+      "custo_reais": 87.0
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Presidente Olegário",
+      "distancia_km": 50.91,
+      "tempo_horas": 0.87,
+      "custo_reais": 25.45
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 50.91,
+      "tempo_horas": 0.87,
+      "custo_reais": 25.45
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 76.28,
+      "tempo_horas": 1.03,
+      "custo_reais": 38.14
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 76.28,
+      "tempo_horas": 1.03,
+      "custo_reais": 38.14
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 138.29,
+      "tempo_horas": 1.86,
+      "custo_reais": 69.14
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 138.29,
+      "tempo_horas": 1.86,
+      "custo_reais": 69.14
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 114.44,
+      "tempo_horas": 1.58,
+      "custo_reais": 57.22
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 114.44,
+      "tempo_horas": 1.58,
+      "custo_reais": 57.22
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "São Gotardo",
+      "distancia_km": 91.58,
+      "tempo_horas": 1.28,
+      "custo_reais": 45.79
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 91.58,
+      "tempo_horas": 1.28,
+      "custo_reais": 45.79
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Serra do Salitre",
+      "distancia_km": 70.43,
+      "tempo_horas": 1.15,
+      "custo_reais": 35.22
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 70.43,
+      "tempo_horas": 1.15,
+      "custo_reais": 35.22
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Tiros",
+      "distancia_km": 81.58,
+      "tempo_horas": 1.3,
+      "custo_reais": 40.79
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 81.58,
+      "tempo_horas": 1.3,
+      "custo_reais": 40.79
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Varjão de Minas",
+      "distancia_km": 83.22,
+      "tempo_horas": 1.16,
+      "custo_reais": 41.61
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 83.22,
+      "tempo_horas": 1.16,
+      "custo_reais": 41.61
+    },
+    {
+      "origem": "Lagoa Formosa",
+      "destino": "Vazante",
+      "distancia_km": 131.6,
+      "tempo_horas": 1.94,
+      "custo_reais": 65.8
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Lagoa Formosa",
+      "distancia_km": 131.6,
+      "tempo_horas": 1.94,
+      "custo_reais": 65.8
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Matutina",
+      "distancia_km": 210.78,
+      "tempo_horas": 3.0,
+      "custo_reais": 105.39
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Lagoa Grande",
+      "distancia_km": 210.78,
+      "tempo_horas": 3.0,
+      "custo_reais": 105.39
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Monte Carmelo",
+      "distancia_km": 207.99,
+      "tempo_horas": 3.18,
+      "custo_reais": 103.99
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Lagoa Grande",
+      "distancia_km": 207.99,
+      "tempo_horas": 3.18,
+      "custo_reais": 103.99
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 265.32,
+      "tempo_horas": 4.27,
+      "custo_reais": 132.66
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Lagoa Grande",
+      "distancia_km": 265.32,
+      "tempo_horas": 4.27,
+      "custo_reais": 132.66
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Paineiras",
+      "distancia_km": 312.62,
+      "tempo_horas": 4.94,
+      "custo_reais": 156.31
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Lagoa Grande",
+      "distancia_km": 312.62,
+      "tempo_horas": 4.94,
+      "custo_reais": 156.31
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Patos de Minas",
+      "distancia_km": 107.26,
+      "tempo_horas": 1.55,
+      "custo_reais": 53.63
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Lagoa Grande",
+      "distancia_km": 107.26,
+      "tempo_horas": 1.55,
+      "custo_reais": 53.63
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Patrocínio",
+      "distancia_km": 174.78,
+      "tempo_horas": 2.48,
+      "custo_reais": 87.39
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Lagoa Grande",
+      "distancia_km": 174.78,
+      "tempo_horas": 2.48,
+      "custo_reais": 87.39
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Pratinha",
+      "distancia_km": 284.62,
+      "tempo_horas": 3.82,
+      "custo_reais": 142.31
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Lagoa Grande",
+      "distancia_km": 284.62,
+      "tempo_horas": 3.82,
+      "custo_reais": 142.31
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Presidente Olegário",
+      "distancia_km": 77.83,
+      "tempo_horas": 1.04,
+      "custo_reais": 38.91
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Lagoa Grande",
+      "distancia_km": 77.83,
+      "tempo_horas": 1.04,
+      "custo_reais": 38.91
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 200.67,
+      "tempo_horas": 2.68,
+      "custo_reais": 100.33
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Lagoa Grande",
+      "distancia_km": 200.67,
+      "tempo_horas": 2.68,
+      "custo_reais": 100.33
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 262.68,
+      "tempo_horas": 3.51,
+      "custo_reais": 131.34
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Lagoa Grande",
+      "distancia_km": 262.68,
+      "tempo_horas": 3.51,
+      "custo_reais": 131.34
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 192.43,
+      "tempo_horas": 2.65,
+      "custo_reais": 96.22
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Lagoa Grande",
+      "distancia_km": 192.43,
+      "tempo_horas": 2.65,
+      "custo_reais": 96.22
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "São Gotardo",
+      "distancia_km": 215.97,
+      "tempo_horas": 2.93,
+      "custo_reais": 107.98
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Lagoa Grande",
+      "distancia_km": 215.97,
+      "tempo_horas": 2.93,
+      "custo_reais": 107.98
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Serra do Salitre",
+      "distancia_km": 181.26,
+      "tempo_horas": 2.46,
+      "custo_reais": 90.63
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Lagoa Grande",
+      "distancia_km": 181.26,
+      "tempo_horas": 2.46,
+      "custo_reais": 90.63
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Tiros",
+      "distancia_km": 205.97,
+      "tempo_horas": 2.95,
+      "custo_reais": 102.98
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Lagoa Grande",
+      "distancia_km": 205.97,
+      "tempo_horas": 2.95,
+      "custo_reais": 102.98
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Varjão de Minas",
+      "distancia_km": 161.22,
+      "tempo_horas": 2.22,
+      "custo_reais": 80.61
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Lagoa Grande",
+      "distancia_km": 161.22,
+      "tempo_horas": 2.22,
+      "custo_reais": 80.61
+    },
+    {
+      "origem": "Lagoa Grande",
+      "destino": "Vazante",
+      "distancia_km": 120.35,
+      "tempo_horas": 1.6,
+      "custo_reais": 60.18
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Lagoa Grande",
+      "distancia_km": 120.35,
+      "tempo_horas": 1.6,
+      "custo_reais": 60.18
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Monte Carmelo",
+      "distancia_km": 217.44,
+      "tempo_horas": 3.2,
+      "custo_reais": 108.72
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Matutina",
+      "distancia_km": 217.44,
+      "tempo_horas": 3.2,
+      "custo_reais": 108.72
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 164.59,
+      "tempo_horas": 2.78,
+      "custo_reais": 82.29
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Matutina",
+      "distancia_km": 164.59,
+      "tempo_horas": 2.78,
+      "custo_reais": 82.29
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Paineiras",
+      "distancia_km": 116.81,
+      "tempo_horas": 2.09,
+      "custo_reais": 58.4
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Matutina",
+      "distancia_km": 116.81,
+      "tempo_horas": 2.09,
+      "custo_reais": 58.4
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Patos de Minas",
+      "distancia_km": 109.62,
+      "tempo_horas": 1.65,
+      "custo_reais": 54.81
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Matutina",
+      "distancia_km": 109.62,
+      "tempo_horas": 1.65,
+      "custo_reais": 54.81
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Patrocínio",
+      "distancia_km": 135.55,
+      "tempo_horas": 2.12,
+      "custo_reais": 67.78
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Matutina",
+      "distancia_km": 135.55,
+      "tempo_horas": 2.12,
+      "custo_reais": 67.78
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Pratinha",
+      "distancia_km": 127.17,
+      "tempo_horas": 1.91,
+      "custo_reais": 63.59
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Matutina",
+      "distancia_km": 127.17,
+      "tempo_horas": 1.91,
+      "custo_reais": 63.59
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Presidente Olegário",
+      "distancia_km": 135.24,
+      "tempo_horas": 2.06,
+      "custo_reais": 67.62
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Matutina",
+      "distancia_km": 135.24,
+      "tempo_horas": 2.06,
+      "custo_reais": 67.62
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 35.48,
+      "tempo_horas": 0.69,
+      "custo_reais": 17.74
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Matutina",
+      "distancia_km": 35.48,
+      "tempo_horas": 0.69,
+      "custo_reais": 17.74
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 47.35,
+      "tempo_horas": 1.09,
+      "custo_reais": 23.67
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Matutina",
+      "distancia_km": 47.35,
+      "tempo_horas": 1.09,
+      "custo_reais": 23.67
+    },
+    {
+      "origem": "Matutina",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 198.78,
+      "tempo_horas": 2.77,
+      "custo_reais": 99.39
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Matutina",
+      "distancia_km": 198.78,
+      "tempo_horas": 2.77,
+      "custo_reais": 99.39
+    },
+    {
+      "origem": "Matutina",
+      "destino": "São Gotardo",
+      "distancia_km": 23.51,
+      "tempo_horas": 0.41,
+      "custo_reais": 11.75
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Matutina",
+      "distancia_km": 23.51,
+      "tempo_horas": 0.41,
+      "custo_reais": 11.75
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Serra do Salitre",
+      "distancia_km": 94.24,
+      "tempo_horas": 1.4,
+      "custo_reais": 47.12
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Matutina",
+      "distancia_km": 94.24,
+      "tempo_horas": 1.4,
+      "custo_reais": 47.12
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Tiros",
+      "distancia_km": 27.87,
+      "tempo_horas": 0.41,
+      "custo_reais": 13.94
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Matutina",
+      "distancia_km": 27.87,
+      "tempo_horas": 0.41,
+      "custo_reais": 13.94
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Varjão de Minas",
+      "distancia_km": 167.56,
+      "tempo_horas": 2.35,
+      "custo_reais": 83.78
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Matutina",
+      "distancia_km": 167.56,
+      "tempo_horas": 2.35,
+      "custo_reais": 83.78
+    },
+    {
+      "origem": "Matutina",
+      "destino": "Vazante",
+      "distancia_km": 215.94,
+      "tempo_horas": 3.13,
+      "custo_reais": 107.97
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Matutina",
+      "distancia_km": 215.94,
+      "tempo_horas": 3.13,
+      "custo_reais": 107.97
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 401.33,
+      "tempo_horas": 5.96,
+      "custo_reais": 200.67
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Monte Carmelo",
+      "distancia_km": 401.33,
+      "tempo_horas": 5.96,
+      "custo_reais": 200.67
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Paineiras",
+      "distancia_km": 329.02,
+      "tempo_horas": 5.15,
+      "custo_reais": 164.51
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Monte Carmelo",
+      "distancia_km": 329.02,
+      "tempo_horas": 5.15,
+      "custo_reais": 164.51
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Patos de Minas",
+      "distancia_km": 149.37,
+      "tempo_horas": 2.14,
+      "custo_reais": 74.69
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Monte Carmelo",
+      "distancia_km": 149.37,
+      "tempo_horas": 2.14,
+      "custo_reais": 74.69
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Patrocínio",
+      "distancia_km": 82.9,
+      "tempo_horas": 1.19,
+      "custo_reais": 41.45
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Monte Carmelo",
+      "distancia_km": 82.9,
+      "tempo_horas": 1.19,
+      "custo_reais": 41.45
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Pratinha",
+      "distancia_km": 213.5,
+      "tempo_horas": 2.96,
+      "custo_reais": 106.75
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Monte Carmelo",
+      "distancia_km": 213.5,
+      "tempo_horas": 2.96,
+      "custo_reais": 106.75
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Presidente Olegário",
+      "distancia_km": 178.13,
+      "tempo_horas": 2.59,
+      "custo_reais": 89.06
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Monte Carmelo",
+      "distancia_km": 178.13,
+      "tempo_horas": 2.59,
+      "custo_reais": 89.06
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 180.95,
+      "tempo_horas": 2.54,
+      "custo_reais": 90.47
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Monte Carmelo",
+      "distancia_km": 180.95,
+      "tempo_horas": 2.54,
+      "custo_reais": 90.47
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 264.99,
+      "tempo_horas": 3.63,
+      "custo_reais": 132.5
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Monte Carmelo",
+      "distancia_km": 264.99,
+      "tempo_horas": 3.63,
+      "custo_reais": 132.5
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 241.66,
+      "tempo_horas": 3.3,
+      "custo_reais": 120.83
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Monte Carmelo",
+      "distancia_km": 241.66,
+      "tempo_horas": 3.3,
+      "custo_reais": 120.83
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "São Gotardo",
+      "distancia_km": 218.28,
+      "tempo_horas": 3.05,
+      "custo_reais": 109.14
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Monte Carmelo",
+      "distancia_km": 218.28,
+      "tempo_horas": 3.05,
+      "custo_reais": 109.14
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Serra do Salitre",
+      "distancia_km": 126.93,
+      "tempo_horas": 1.89,
+      "custo_reais": 63.46
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Monte Carmelo",
+      "distancia_km": 126.93,
+      "tempo_horas": 1.89,
+      "custo_reais": 63.46
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Tiros",
+      "distancia_km": 240.08,
+      "tempo_horas": 3.47,
+      "custo_reais": 120.04
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Monte Carmelo",
+      "distancia_km": 240.08,
+      "tempo_horas": 3.47,
+      "custo_reais": 120.04
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Varjão de Minas",
+      "distancia_km": 210.44,
+      "tempo_horas": 2.88,
+      "custo_reais": 105.22
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Monte Carmelo",
+      "distancia_km": 210.44,
+      "tempo_horas": 2.88,
+      "custo_reais": 105.22
+    },
+    {
+      "origem": "Monte Carmelo",
+      "destino": "Vazante",
+      "distancia_km": 159.32,
+      "tempo_horas": 2.18,
+      "custo_reais": 79.66
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Monte Carmelo",
+      "distancia_km": 159.32,
+      "tempo_horas": 2.18,
+      "custo_reais": 79.66
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Paineiras",
+      "distancia_km": 47.8,
+      "tempo_horas": 0.69,
+      "custo_reais": 23.9
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 47.8,
+      "tempo_horas": 0.69,
+      "custo_reais": 23.9
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Patos de Minas",
+      "distancia_km": 209.79,
+      "tempo_horas": 3.66,
+      "custo_reais": 104.89
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 209.79,
+      "tempo_horas": 3.66,
+      "custo_reais": 104.89
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Patrocínio",
+      "distancia_km": 272.08,
+      "tempo_horas": 4.52,
+      "custo_reais": 136.04
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 272.08,
+      "tempo_horas": 4.52,
+      "custo_reais": 136.04
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Pratinha",
+      "distancia_km": 275.84,
+      "tempo_horas": 4.07,
+      "custo_reais": 137.92
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 275.84,
+      "tempo_horas": 4.07,
+      "custo_reais": 137.92
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Presidente Olegário",
+      "distancia_km": 225.71,
+      "tempo_horas": 3.94,
+      "custo_reais": 112.86
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 225.71,
+      "tempo_horas": 3.94,
+      "custo_reais": 112.86
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 194.98,
+      "tempo_horas": 3.42,
+      "custo_reais": 97.49
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 194.98,
+      "tempo_horas": 3.42,
+      "custo_reais": 97.49
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 192.06,
+      "tempo_horas": 3.16,
+      "custo_reais": 96.03
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 192.06,
+      "tempo_horas": 3.16,
+      "custo_reais": 96.03
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 108.96,
+      "tempo_horas": 2.27,
+      "custo_reais": 54.48
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 108.96,
+      "tempo_horas": 2.27,
+      "custo_reais": 54.48
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "São Gotardo",
+      "distancia_km": 183.01,
+      "tempo_horas": 3.15,
+      "custo_reais": 91.51
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 183.01,
+      "tempo_horas": 3.15,
+      "custo_reais": 91.51
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Serra do Salitre",
+      "distancia_km": 253.75,
+      "tempo_horas": 4.13,
+      "custo_reais": 126.87
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 253.75,
+      "tempo_horas": 4.13,
+      "custo_reais": 126.87
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Tiros",
+      "distancia_km": 107.25,
+      "tempo_horas": 2.29,
+      "custo_reais": 53.63
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 107.25,
+      "tempo_horas": 2.29,
+      "custo_reais": 53.63
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Varjão de Minas",
+      "distancia_km": 140.48,
+      "tempo_horas": 2.69,
+      "custo_reais": 70.24
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 140.48,
+      "tempo_horas": 2.69,
+      "custo_reais": 70.24
+    },
+    {
+      "origem": "Morada Nova de Minas",
+      "destino": "Vazante",
+      "distancia_km": 306.4,
+      "tempo_horas": 5.01,
+      "custo_reais": 153.2
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Morada Nova de Minas",
+      "distancia_km": 306.4,
+      "tempo_horas": 5.01,
+      "custo_reais": 153.2
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Patos de Minas",
+      "distancia_km": 221.33,
+      "tempo_horas": 3.7,
+      "custo_reais": 110.67
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Paineiras",
+      "distancia_km": 221.33,
+      "tempo_horas": 3.7,
+      "custo_reais": 110.67
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Patrocínio",
+      "distancia_km": 247.26,
+      "tempo_horas": 4.16,
+      "custo_reais": 123.63
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Paineiras",
+      "distancia_km": 247.26,
+      "tempo_horas": 4.16,
+      "custo_reais": 123.63
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Pratinha",
+      "distancia_km": 228.05,
+      "tempo_horas": 3.38,
+      "custo_reais": 114.02
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Paineiras",
+      "distancia_km": 228.05,
+      "tempo_horas": 3.38,
+      "custo_reais": 114.02
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Presidente Olegário",
+      "distancia_km": 228.16,
+      "tempo_horas": 4.01,
+      "custo_reais": 114.08
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Paineiras",
+      "distancia_km": 228.16,
+      "tempo_horas": 4.01,
+      "custo_reais": 114.08
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 147.19,
+      "tempo_horas": 2.73,
+      "custo_reais": 73.59
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Paineiras",
+      "distancia_km": 147.19,
+      "tempo_horas": 2.73,
+      "custo_reais": 73.59
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 144.27,
+      "tempo_horas": 2.47,
+      "custo_reais": 72.13
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Paineiras",
+      "distancia_km": 144.27,
+      "tempo_horas": 2.47,
+      "custo_reais": 72.13
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 111.41,
+      "tempo_horas": 2.34,
+      "custo_reais": 55.71
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Paineiras",
+      "distancia_km": 111.41,
+      "tempo_horas": 2.34,
+      "custo_reais": 55.71
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "São Gotardo",
+      "distancia_km": 135.22,
+      "tempo_horas": 2.46,
+      "custo_reais": 67.61
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Paineiras",
+      "distancia_km": 135.22,
+      "tempo_horas": 2.46,
+      "custo_reais": 67.61
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Serra do Salitre",
+      "distancia_km": 205.95,
+      "tempo_horas": 3.44,
+      "custo_reais": 102.98
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Paineiras",
+      "distancia_km": 205.95,
+      "tempo_horas": 3.44,
+      "custo_reais": 102.98
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Tiros",
+      "distancia_km": 119.07,
+      "tempo_horas": 2.21,
+      "custo_reais": 59.54
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Paineiras",
+      "distancia_km": 119.07,
+      "tempo_horas": 2.21,
+      "custo_reais": 59.54
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Varjão de Minas",
+      "distancia_km": 142.93,
+      "tempo_horas": 2.76,
+      "custo_reais": 71.46
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Paineiras",
+      "distancia_km": 142.93,
+      "tempo_horas": 2.76,
+      "custo_reais": 71.46
+    },
+    {
+      "origem": "Paineiras",
+      "destino": "Vazante",
+      "distancia_km": 308.85,
+      "tempo_horas": 5.08,
+      "custo_reais": 154.43
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Paineiras",
+      "distancia_km": 308.85,
+      "tempo_horas": 5.08,
+      "custo_reais": 154.43
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Patrocínio",
+      "distancia_km": 70.63,
+      "tempo_horas": 1.14,
+      "custo_reais": 35.31
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Patos de Minas",
+      "distancia_km": 70.63,
+      "tempo_horas": 1.14,
+      "custo_reais": 35.31
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Pratinha",
+      "distancia_km": 180.46,
+      "tempo_horas": 2.48,
+      "custo_reais": 90.23
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Patos de Minas",
+      "distancia_km": 180.46,
+      "tempo_horas": 2.48,
+      "custo_reais": 90.23
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Presidente Olegário",
+      "distancia_km": 30.38,
+      "tempo_horas": 0.65,
+      "custo_reais": 15.19
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Patos de Minas",
+      "distancia_km": 30.38,
+      "tempo_horas": 0.65,
+      "custo_reais": 15.19
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 99.79,
+      "tempo_horas": 1.37,
+      "custo_reais": 49.89
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Patos de Minas",
+      "distancia_km": 99.79,
+      "tempo_horas": 1.37,
+      "custo_reais": 49.89
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 161.8,
+      "tempo_horas": 2.2,
+      "custo_reais": 80.9
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Patos de Minas",
+      "distancia_km": 161.8,
+      "tempo_horas": 2.2,
+      "custo_reais": 80.9
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 101.57,
+      "tempo_horas": 1.45,
+      "custo_reais": 50.79
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Patos de Minas",
+      "distancia_km": 101.57,
+      "tempo_horas": 1.45,
+      "custo_reais": 50.79
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "São Gotardo",
+      "distancia_km": 115.09,
+      "tempo_horas": 1.62,
+      "custo_reais": 57.54
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Patos de Minas",
+      "distancia_km": 115.09,
+      "tempo_horas": 1.62,
+      "custo_reais": 57.54
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Serra do Salitre",
+      "distancia_km": 77.11,
+      "tempo_horas": 1.12,
+      "custo_reais": 38.55
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Patos de Minas",
+      "distancia_km": 77.11,
+      "tempo_horas": 1.12,
+      "custo_reais": 38.55
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Tiros",
+      "distancia_km": 105.09,
+      "tempo_horas": 1.64,
+      "custo_reais": 52.54
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Patos de Minas",
+      "distancia_km": 105.09,
+      "tempo_horas": 1.64,
+      "custo_reais": 52.54
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Varjão de Minas",
+      "distancia_km": 70.36,
+      "tempo_horas": 1.02,
+      "custo_reais": 35.18
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Patos de Minas",
+      "distancia_km": 70.36,
+      "tempo_horas": 1.02,
+      "custo_reais": 35.18
+    },
+    {
+      "origem": "Patos de Minas",
+      "destino": "Vazante",
+      "distancia_km": 111.08,
+      "tempo_horas": 1.72,
+      "custo_reais": 55.54
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Patos de Minas",
+      "distancia_km": 111.08,
+      "tempo_horas": 1.72,
+      "custo_reais": 55.54
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Pratinha",
+      "distancia_km": 131.56,
+      "tempo_horas": 1.89,
+      "custo_reais": 65.78
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Patrocínio",
+      "distancia_km": 131.56,
+      "tempo_horas": 1.89,
+      "custo_reais": 65.78
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Presidente Olegário",
+      "distancia_km": 98.62,
+      "tempo_horas": 1.53,
+      "custo_reais": 49.31
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Patrocínio",
+      "distancia_km": 98.62,
+      "tempo_horas": 1.53,
+      "custo_reais": 49.31
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 99.01,
+      "tempo_horas": 1.47,
+      "custo_reais": 49.5
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Patrocínio",
+      "distancia_km": 99.01,
+      "tempo_horas": 1.47,
+      "custo_reais": 49.5
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 183.05,
+      "tempo_horas": 2.56,
+      "custo_reais": 91.53
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Patrocínio",
+      "distancia_km": 183.05,
+      "tempo_horas": 2.56,
+      "custo_reais": 91.53
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 162.15,
+      "tempo_horas": 2.24,
+      "custo_reais": 81.08
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Patrocínio",
+      "distancia_km": 162.15,
+      "tempo_horas": 2.24,
+      "custo_reais": 81.08
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "São Gotardo",
+      "distancia_km": 136.34,
+      "tempo_horas": 1.98,
+      "custo_reais": 68.17
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Patrocínio",
+      "distancia_km": 136.34,
+      "tempo_horas": 1.98,
+      "custo_reais": 68.17
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Serra do Salitre",
+      "distancia_km": 44.99,
+      "tempo_horas": 0.81,
+      "custo_reais": 22.49
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Patrocínio",
+      "distancia_km": 44.99,
+      "tempo_horas": 0.81,
+      "custo_reais": 22.49
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Tiros",
+      "distancia_km": 158.14,
+      "tempo_horas": 2.39,
+      "custo_reais": 79.07
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Patrocínio",
+      "distancia_km": 158.14,
+      "tempo_horas": 2.39,
+      "custo_reais": 79.07
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Varjão de Minas",
+      "distancia_km": 130.94,
+      "tempo_horas": 1.82,
+      "custo_reais": 65.47
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Patrocínio",
+      "distancia_km": 130.94,
+      "tempo_horas": 1.82,
+      "custo_reais": 65.47
+    },
+    {
+      "origem": "Patrocínio",
+      "destino": "Vazante",
+      "distancia_km": 183.39,
+      "tempo_horas": 2.5,
+      "custo_reais": 91.7
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Patrocínio",
+      "distancia_km": 183.39,
+      "tempo_horas": 2.5,
+      "custo_reais": 91.7
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Presidente Olegário",
+      "distancia_km": 208.41,
+      "tempo_horas": 2.89,
+      "custo_reais": 104.21
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Pratinha",
+      "distancia_km": 208.41,
+      "tempo_horas": 2.89,
+      "custo_reais": 104.21
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 118.08,
+      "tempo_horas": 1.64,
+      "custo_reais": 59.04
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Pratinha",
+      "distancia_km": 118.08,
+      "tempo_horas": 1.64,
+      "custo_reais": 59.04
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 72.09,
+      "tempo_horas": 1.36,
+      "custo_reais": 36.05
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Pratinha",
+      "distancia_km": 72.09,
+      "tempo_horas": 1.36,
+      "custo_reais": 36.05
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 271.95,
+      "tempo_horas": 3.6,
+      "custo_reais": 135.97
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Pratinha",
+      "distancia_km": 271.95,
+      "tempo_horas": 3.6,
+      "custo_reais": 135.97
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "São Gotardo",
+      "distancia_km": 104.42,
+      "tempo_horas": 1.55,
+      "custo_reais": 52.21
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Pratinha",
+      "distancia_km": 104.42,
+      "tempo_horas": 1.55,
+      "custo_reais": 52.21
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Serra do Salitre",
+      "distancia_km": 102.77,
+      "tempo_horas": 1.35,
+      "custo_reais": 51.39
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Pratinha",
+      "distancia_km": 102.77,
+      "tempo_horas": 1.35,
+      "custo_reais": 51.39
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Tiros",
+      "distancia_km": 148.95,
+      "tempo_horas": 2.18,
+      "custo_reais": 74.48
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Pratinha",
+      "distancia_km": 148.95,
+      "tempo_horas": 2.18,
+      "custo_reais": 74.48
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Varjão de Minas",
+      "distancia_km": 240.73,
+      "tempo_horas": 3.17,
+      "custo_reais": 120.37
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Pratinha",
+      "distancia_km": 240.73,
+      "tempo_horas": 3.17,
+      "custo_reais": 120.37
+    },
+    {
+      "origem": "Pratinha",
+      "destino": "Vazante",
+      "distancia_km": 289.11,
+      "tempo_horas": 3.95,
+      "custo_reais": 144.55
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Pratinha",
+      "distancia_km": 289.11,
+      "tempo_horas": 3.95,
+      "custo_reais": 144.55
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 124.88,
+      "tempo_horas": 1.76,
+      "custo_reais": 62.44
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Presidente Olegário",
+      "distancia_km": 124.88,
+      "tempo_horas": 1.76,
+      "custo_reais": 62.44
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 186.88,
+      "tempo_horas": 2.59,
+      "custo_reais": 93.44
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Presidente Olegário",
+      "distancia_km": 186.88,
+      "tempo_horas": 2.59,
+      "custo_reais": 93.44
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 116.64,
+      "tempo_horas": 1.72,
+      "custo_reais": 58.32
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Presidente Olegário",
+      "distancia_km": 116.64,
+      "tempo_horas": 1.72,
+      "custo_reais": 58.32
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "São Gotardo",
+      "distancia_km": 140.17,
+      "tempo_horas": 2.01,
+      "custo_reais": 70.09
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Presidente Olegário",
+      "distancia_km": 140.17,
+      "tempo_horas": 2.01,
+      "custo_reais": 70.09
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Serra do Salitre",
+      "distancia_km": 105.47,
+      "tempo_horas": 1.54,
+      "custo_reais": 52.74
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Presidente Olegário",
+      "distancia_km": 105.47,
+      "tempo_horas": 1.54,
+      "custo_reais": 52.74
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Tiros",
+      "distancia_km": 130.17,
+      "tempo_horas": 2.02,
+      "custo_reais": 65.09
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Presidente Olegário",
+      "distancia_km": 130.17,
+      "tempo_horas": 2.02,
+      "custo_reais": 65.09
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Varjão de Minas",
+      "distancia_km": 85.42,
+      "tempo_horas": 1.3,
+      "custo_reais": 42.71
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Presidente Olegário",
+      "distancia_km": 85.42,
+      "tempo_horas": 1.3,
+      "custo_reais": 42.71
+    },
+    {
+      "origem": "Presidente Olegário",
+      "destino": "Vazante",
+      "distancia_km": 83.28,
+      "tempo_horas": 1.2,
+      "custo_reais": 41.64
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Presidente Olegário",
+      "distancia_km": 83.28,
+      "tempo_horas": 1.2,
+      "custo_reais": 41.64
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 83.05,
+      "tempo_horas": 1.15,
+      "custo_reais": 41.52
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 83.05,
+      "tempo_horas": 1.15,
+      "custo_reais": 41.52
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 188.94,
+      "tempo_horas": 2.47,
+      "custo_reais": 94.47
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 188.94,
+      "tempo_horas": 2.47,
+      "custo_reais": 94.47
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "São Gotardo",
+      "distancia_km": 36.34,
+      "tempo_horas": 0.57,
+      "custo_reais": 18.17
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 36.34,
+      "tempo_horas": 0.57,
+      "custo_reais": 18.17
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Serra do Salitre",
+      "distancia_km": 57.45,
+      "tempo_horas": 0.76,
+      "custo_reais": 28.73
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 57.45,
+      "tempo_horas": 0.76,
+      "custo_reais": 28.73
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Tiros",
+      "distancia_km": 58.14,
+      "tempo_horas": 0.98,
+      "custo_reais": 29.07
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 58.14,
+      "tempo_horas": 0.98,
+      "custo_reais": 29.07
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Varjão de Minas",
+      "distancia_km": 157.72,
+      "tempo_horas": 2.04,
+      "custo_reais": 78.86
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 157.72,
+      "tempo_horas": 2.04,
+      "custo_reais": 78.86
+    },
+    {
+      "origem": "Rio Paranaíba",
+      "destino": "Vazante",
+      "distancia_km": 206.1,
+      "tempo_horas": 2.82,
+      "custo_reais": 103.05
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Rio Paranaíba",
+      "distancia_km": 206.1,
+      "tempo_horas": 2.82,
+      "custo_reais": 103.05
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 250.53,
+      "tempo_horas": 3.29,
+      "custo_reais": 125.26
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 250.53,
+      "tempo_horas": 3.29,
+      "custo_reais": 125.26
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "São Gotardo",
+      "distancia_km": 69.19,
+      "tempo_horas": 1.06,
+      "custo_reais": 34.6
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 69.19,
+      "tempo_horas": 1.06,
+      "custo_reais": 34.6
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Serra do Salitre",
+      "distancia_km": 141.62,
+      "tempo_horas": 1.86,
+      "custo_reais": 70.81
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 141.62,
+      "tempo_horas": 1.86,
+      "custo_reais": 70.81
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Tiros",
+      "distancia_km": 70.12,
+      "tempo_horas": 1.39,
+      "custo_reais": 35.06
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 70.12,
+      "tempo_horas": 1.39,
+      "custo_reais": 35.06
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Varjão de Minas",
+      "distancia_km": 219.31,
+      "tempo_horas": 2.86,
+      "custo_reais": 109.66
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 219.31,
+      "tempo_horas": 2.86,
+      "custo_reais": 109.66
+    },
+    {
+      "origem": "Santa Rosa da Serra",
+      "destino": "Vazante",
+      "distancia_km": 267.69,
+      "tempo_horas": 3.65,
+      "custo_reais": 133.84
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Santa Rosa da Serra",
+      "distancia_km": 267.69,
+      "tempo_horas": 3.65,
+      "custo_reais": 133.84
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "São Gotardo",
+      "distancia_km": 204.58,
+      "tempo_horas": 2.73,
+      "custo_reais": 102.29
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 204.58,
+      "tempo_horas": 2.73,
+      "custo_reais": 102.29
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Serra do Salitre",
+      "distancia_km": 169.88,
+      "tempo_horas": 2.26,
+      "custo_reais": 84.94
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 169.88,
+      "tempo_horas": 2.26,
+      "custo_reais": 84.94
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Tiros",
+      "distancia_km": 194.58,
+      "tempo_horas": 2.74,
+      "custo_reais": 97.29
+    },
+    {
+      "origem": "Tiros",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 194.58,
+      "tempo_horas": 2.74,
+      "custo_reais": 97.29
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Varjão de Minas",
+      "distancia_km": 31.8,
+      "tempo_horas": 0.45,
+      "custo_reais": 15.9
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 31.8,
+      "tempo_horas": 0.45,
+      "custo_reais": 15.9
+    },
+    {
+      "origem": "São Gonçalo do Abaeté",
+      "destino": "Vazante",
+      "distancia_km": 197.72,
+      "tempo_horas": 2.77,
+      "custo_reais": 98.86
+    },
+    {
+      "origem": "Vazante",
+      "destino": "São Gonçalo do Abaeté",
+      "distancia_km": 197.72,
+      "tempo_horas": 2.77,
+      "custo_reais": 98.86
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Serra do Salitre",
+      "distancia_km": 95.26,
+      "tempo_horas": 1.26,
+      "custo_reais": 47.63
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "São Gotardo",
+      "distancia_km": 95.26,
+      "tempo_horas": 1.26,
+      "custo_reais": 47.63
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Tiros",
+      "distancia_km": 46.15,
+      "tempo_horas": 0.7,
+      "custo_reais": 23.08
+    },
+    {
+      "origem": "Tiros",
+      "destino": "São Gotardo",
+      "distancia_km": 46.15,
+      "tempo_horas": 0.7,
+      "custo_reais": 23.08
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Varjão de Minas",
+      "distancia_km": 172.95,
+      "tempo_horas": 2.26,
+      "custo_reais": 86.48
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "São Gotardo",
+      "distancia_km": 172.95,
+      "tempo_horas": 2.26,
+      "custo_reais": 86.48
+    },
+    {
+      "origem": "São Gotardo",
+      "destino": "Vazante",
+      "distancia_km": 221.33,
+      "tempo_horas": 3.04,
+      "custo_reais": 110.66
+    },
+    {
+      "origem": "Vazante",
+      "destino": "São Gotardo",
+      "distancia_km": 221.33,
+      "tempo_horas": 3.04,
+      "custo_reais": 110.66
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Tiros",
+      "distancia_km": 116.54,
+      "tempo_horas": 1.69,
+      "custo_reais": 58.27
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Serra do Salitre",
+      "distancia_km": 116.54,
+      "tempo_horas": 1.69,
+      "custo_reais": 58.27
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Varjão de Minas",
+      "distancia_km": 138.51,
+      "tempo_horas": 1.87,
+      "custo_reais": 69.25
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Serra do Salitre",
+      "distancia_km": 138.51,
+      "tempo_horas": 1.87,
+      "custo_reais": 69.25
+    },
+    {
+      "origem": "Serra do Salitre",
+      "destino": "Vazante",
+      "distancia_km": 186.89,
+      "tempo_horas": 2.65,
+      "custo_reais": 93.44
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Serra do Salitre",
+      "distancia_km": 186.89,
+      "tempo_horas": 2.65,
+      "custo_reais": 93.44
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Varjão de Minas",
+      "distancia_km": 162.59,
+      "tempo_horas": 2.3,
+      "custo_reais": 81.3
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Tiros",
+      "distancia_km": 162.59,
+      "tempo_horas": 2.3,
+      "custo_reais": 81.3
+    },
+    {
+      "origem": "Tiros",
+      "destino": "Vazante",
+      "distancia_km": 210.97,
+      "tempo_horas": 3.09,
+      "custo_reais": 105.49
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Tiros",
+      "distancia_km": 210.97,
+      "tempo_horas": 3.09,
+      "custo_reais": 105.49
+    },
+    {
+      "origem": "Varjão de Minas",
+      "destino": "Vazante",
+      "distancia_km": 166.36,
+      "tempo_horas": 2.35,
+      "custo_reais": 83.18
+    },
+    {
+      "origem": "Vazante",
+      "destino": "Varjão de Minas",
+      "distancia_km": 166.36,
+      "tempo_horas": 2.35,
+      "custo_reais": 83.18
+    }
+  ]
+}

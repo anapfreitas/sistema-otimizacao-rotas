@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>mapa_rotas_aco.html</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUAUXXe_gbAEyPvT_j9RUXxcNknZVyqMg"></script>
+    <style>
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+        .legenda {
+            position: absolute;
+            background-color: white;
+            padding: 10px;
+            top: 10px;
+            left: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="legenda">
+        <b>Legenda:</b><br><span style="color:#FF0000;">■</span> ACO Rota 1<br>&nbsp;&nbsp;&nbsp;&nbsp;1548.61 km, 25.71 h, R$ 774.29<br><span style="color:#0000FF;">■</span> ACO Rota 2<br>&nbsp;&nbsp;&nbsp;&nbsp;1550.52 km, 26.40 h, R$ 775.25<br><span style="color:#00AA00;">■</span> ACO Rota 3<br>&nbsp;&nbsp;&nbsp;&nbsp;1559.89 km, 26.05 h, R$ 779.95<br></div>
+    <script>
+        function initMap() {
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 8,
+                center: { lat: -18.9, lng: -46.99 }
+            });
+
+            var rotas = [["Patroc\u00ednio", "Guimar\u00e2nia", "Cruzeiro da Fortaleza", "Serra do Salitre", "Ibi\u00e1", "Pratinha", "Campos Altos", "Santa Rosa da Serra", "Matutina", "S\u00e3o Gotardo", "Rio Parana\u00edba", "Carmo do Parana\u00edba", "Arapu\u00e1", "Tiros", "Cedro do Abaet\u00e9", "Paineiras", "Biquinhas", "Morada Nova de Minas", "S\u00e3o Gon\u00e7alo do Abaet\u00e9", "Varj\u00e3o de Minas", "Lagoa Formosa", "Patos de Minas", "Presidente Oleg\u00e1rio", "Lagoa Grande", "Lagamar", "Vazante", "Guarda-Mor", "Abadia dos Dourados", "Coromandel", "Douradoquara", "Grupiara", "Monte Carmelo", "Ira\u00ed de Minas", "Patroc\u00ednio"], ["Patroc\u00ednio", "Guimar\u00e2nia", "Cruzeiro da Fortaleza", "Serra do Salitre", "Carmo do Parana\u00edba", "Arapu\u00e1", "Rio Parana\u00edba", "S\u00e3o Gotardo", "Ibi\u00e1", "Pratinha", "Campos Altos", "Santa Rosa da Serra", "Matutina", "Tiros", "Cedro do Abaet\u00e9", "Paineiras", "Biquinhas", "Morada Nova de Minas", "S\u00e3o Gon\u00e7alo do Abaet\u00e9", "Varj\u00e3o de Minas", "Lagoa Formosa", "Patos de Minas", "Presidente Oleg\u00e1rio", "Lagoa Grande", "Guarda-Mor", "Vazante", "Lagamar", "Coromandel", "Abadia dos Dourados", "Douradoquara", "Grupiara", "Monte Carmelo", "Ira\u00ed de Minas", "Patroc\u00ednio"], ["Patroc\u00ednio", "Ira\u00ed de Minas", "Monte Carmelo", "Grupiara", "Douradoquara", "Coromandel", "Abadia dos Dourados", "Guarda-Mor", "Vazante", "Lagamar", "Lagoa Grande", "Presidente Oleg\u00e1rio", "Patos de Minas", "Lagoa Formosa", "Varj\u00e3o de Minas", "S\u00e3o Gon\u00e7alo do Abaet\u00e9", "Morada Nova de Minas", "Biquinhas", "Paineiras", "Cedro do Abaet\u00e9", "Tiros", "Matutina", "Santa Rosa da Serra", "Campos Altos", "Pratinha", "Ibi\u00e1", "S\u00e3o Gotardo", "Rio Parana\u00edba", "Arapu\u00e1", "Carmo do Parana\u00edba", "Serra do Salitre", "Cruzeiro da Fortaleza", "Guimar\u00e2nia", "Patroc\u00ednio"]];
+            var coordenadas = {"Abadia dos Dourados": {"lat": -18.4868648, "lng": -47.4030649}, "Arapu\u00e1": {"lat": -19.035451, "lng": -46.1539508}, "Biquinhas": {"lat": -18.782962, "lng": -45.5038014}, "Campos Altos": {"lat": -19.6968881, "lng": -46.1704974}, "Carmo do Parana\u00edba": {"lat": -18.9997131, "lng": -46.3126967}, "Cedro do Abaet\u00e9": {"lat": -19.1464575, "lng": -45.7138281}, "Coromandel": {"lat": -18.4785256, "lng": -47.1978084}, "Cruzeiro da Fortaleza": {"lat": -18.946948, "lng": -46.673326}, "Douradoquara": {"lat": -18.4309993, "lng": -47.6081353}, "Grupiara": {"lat": -18.4943963, "lng": -47.7244459}, "Guarda-Mor": {"lat": -17.7704994, "lng": -47.0958055}, "Guimar\u00e2nia": {"lat": -18.844193, "lng": -46.7942354}, "Ibi\u00e1": {"lat": -19.4878116, "lng": -46.5450499}, "Ira\u00ed de Minas": {"lat": -18.9833808, "lng": -47.4617751}, "Lagamar": {"lat": -18.178724, "lng": -46.80644359999999}, "Lagoa Formosa": {"lat": -18.7776633, "lng": -46.405353}, "Lagoa Grande": {"lat": -17.8368328, "lng": -46.5212205}, "Matutina": {"lat": -19.2223922, "lng": -45.9718167}, "Monte Carmelo": {"lat": -18.7269616, "lng": -47.4956501}, "Morada Nova de Minas": {"lat": -18.6060211, "lng": -45.35729010000001}, "Paineiras": {"lat": -18.9051753, "lng": -45.53465930000001}, "Patos de Minas": {"lat": -18.5961683, "lng": -46.5150076}, "Patroc\u00ednio": {"lat": -18.9379772, "lng": -46.99427180000001}, "Pratinha": {"lat": -19.7504733, "lng": -46.3773223}, "Presidente Oleg\u00e1rio": {"lat": -18.4158495, "lng": -46.4186194}, "Rio Parana\u00edba": {"lat": -19.199005, "lng": -46.2360218}, "Santa Rosa da Serra": {"lat": -19.527717, "lng": -45.9667441}, "S\u00e3o Gon\u00e7alo do Abaet\u00e9": {"lat": -18.3401701, "lng": -45.8318041}, "S\u00e3o Gotardo": {"lat": -19.3107686, "lng": -46.04897949999999}, "Serra do Salitre": {"lat": -19.1091373, "lng": -46.6812035}, "Tiros": {"lat": -19.0031405, "lng": -45.9647122}, "Varj\u00e3o de Minas": {"lat": -18.379071, "lng": -46.0320827}, "Vazante": {"lat": -17.9873107, "lng": -46.9042592}};
+            var cores = ["#FF0000", "#0000FF", "#00AA00"];
+
+            rotas.forEach(function(rota, idx) {
+                var path = [];
+                rota.forEach(function(cidade, ordem) {
+                    var coord = coordenadas[cidade];
+                    if (coord) {
+                        var lat = coord.lat;
+                        var lng = coord.lng;
+                        if (true) {
+                            if (idx === 1) lat += 0.03;
+                            if (idx === 2) {{ lat += 0.06; lng += 0.03; }}
+                        }
+                        path.push({ lat: lat, lng: lng });
+                        new google.maps.Marker({
+                            position: { lat: lat, lng: lng },
+                            map: map,
+                            label: {
+                                text: (ordem + 1).toString(),
+                                fontSize: "11px",
+                                fontWeight: "bold"
+                            },
+                            title: cidade
+                        });
+                    }
+                });
+
+                var polyline = new google.maps.Polyline({
+                    path: path,
+                    geodesic: true,
+                    strokeColor: cores[idx % cores.length],
+                    strokeOpacity: 1.0,
+                    strokeWeight: 4
+                });
+                polyline.setMap(map);
+            });
+        }
+        window.onload = initMap;
+    </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+{
+  "aco": {
+    "num_formigas": 64,
+    "num_iteracoes": 100,
+    "taxa_evaporacao": 0.3,
+    "alfa": 1.0,
+    "beta": 5.0
+  },
+  "ga": {
+    "tamanho_populacao": 300,
+    "num_geracoes": 200,
+    "taxa_mutacao": 0.08,
+    "taxa_cruzamento": 0.9,
+    "percentual_elite": 0.2
+  },
+  "restricoes": {
+    "estradas_bloqueadas": [
+      "Coromandel → Guarda-Mor",
+      "Guarda-Mor → Coromandel"
+    ]
+  },
+  "custos": {
+    "preco_combustivel": 5.0,
+    "consumo_km_por_litro": 10,
+    "media_velocidade_kmh": 60
+  }
+}
