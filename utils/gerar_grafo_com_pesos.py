@@ -3,7 +3,7 @@ import time
 import itertools
 import requests
 
-API_KEY = "AIzaSyAUAUXXe_gbAEyPvT_j9RUXxcNknZVyqMg"
+API_KEY = "SUA_CHAVE"
 CONSUMO_KM_L = 10
 PRECO_LITRO = 5.0
 
@@ -62,7 +62,7 @@ for origem, destino in itertools.combinations(cidades, 2):
     print(f"{origem} → {destino}: {round(distancia_km, 2)} km, {round(tempo_horas, 2)} h, R$ {round(custo_reais, 2)}")
 
     pares_calculados.add((origem, destino))
-    time.sleep(2)  # Evita sobrecarga na API
+    time.sleep(2) 
 
 with open("grafo_logistico_com_pesos.json", "w", encoding="utf-8") as f:
     json.dump(grafo, f, indent=2, ensure_ascii=False)

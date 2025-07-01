@@ -2,7 +2,7 @@ import json
 import os
 import webbrowser
 
-API_KEY = "AIzaSyAUAUXXe_gbAEyPvT_j9RUXxcNknZVyqMg"
+API_KEY = "SUA_CHAVE"
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 visualizacao_dir = base_dir
